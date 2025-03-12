@@ -1,0 +1,1001 @@
+Client_ID,Age,Gender,Marital_Status,Education_Level,Employment_Status,Years_At_Job,Annual_Income,Credit_Score,Debt_To_Income_Ratio,Loan_Amount,Loan_Term_Months,Interest_Rate,Previous_Defaults,Loan_Purpose,Collateral_Provided,Late_Payments_6m,Loan_Status,Default_Risk
+1,59,Male,Widowed,Master,Employed,20,102895,735,0.39,30993,60,10.75,1,Other,No,0,Rejected,Low
+2,49,Female,Widowed,PhD,Retired,34,109132,760,0.46,6524,72,7.89,2,Education,No,4,Rejected,High
+3,35,Female,Single,Bachelor,Unemployed,12,111066,320,0.22,31120,12,12.05,0,Business,Yes,3,Rejected,Low
+4,63,Male,Divorced,High School,Unemployed,9,86798,363,0.32,5078,72,14.91,0,Car,No,1,Rejected,Medium
+5,28,Female,Widowed,Master,Retired,9,74199,464,0.24,40891,24,10.74,4,Education,No,1,Approved,Low
+6,41,Female,Married,High School,Unemployed,12,143823,326,0.14,30473,72,3.13,0,Business,Yes,3,Rejected,Medium
+7,59,Female,Divorced,Master,Unemployed,36,79546,610,0.54,44832,12,3.81,1,Home,No,0,Rejected,Low
+8,39,Female,Married,Bachelor,Retired,37,148180,584,0.46,13417,12,13.51,4,Education,No,1,Rejected,High
+9,43,Male,Divorced,Master,Self-employed,23,125686,580,0.25,18362,60,9.09,0,Other,No,5,Rejected,Low
+10,31,Female,Married,Bachelor,Employed,1,108151,463,0.4,6209,24,12.81,2,Home,Yes,5,Approved,Medium
+11,31,Male,Single,Master,Unemployed,21,23327,523,0.2,42921,36,13.21,1,Education,No,5,Rejected,Low
+12,44,Female,Widowed,Bachelor,Self-employed,16,140318,445,0.55,9898,72,14.1,2,Personal,No,2,Rejected,Low
+13,56,Female,Married,Bachelor,Unemployed,35,49768,329,0.16,23562,60,14.37,2,Business,Yes,2,Rejected,Medium
+14,60,Male,Divorced,PhD,Unemployed,13,84418,344,0.1,15871,72,9.44,4,Business,Yes,0,Rejected,Low
+15,44,Female,Widowed,Bachelor,Employed,9,114386,770,0.35,12610,72,6.76,3,Personal,No,3,Rejected,Low
+16,23,Female,Widowed,PhD,Unemployed,34,136947,333,0.39,48845,36,14.52,4,Car,Yes,4,Approved,Low
+17,42,Female,Divorced,Bachelor,Employed,24,62788,726,0.39,32382,24,9.34,1,Other,Yes,0,Rejected,Medium
+18,22,Male,Married,High School,Employed,2,135945,520,0.13,20791,12,3.3,1,Business,Yes,4,Rejected,High
+19,44,Female,Single,Bachelor,Employed,37,102384,833,0.26,40312,48,10.53,4,Home,Yes,0,Approved,Low
+20,64,Male,Single,High School,Self-employed,16,66830,666,0.35,43290,72,9.85,3,Other,Yes,2,Rejected,Medium
+21,50,Female,Married,High School,Retired,11,72446,849,0.21,7370,48,13.7,4,Business,Yes,5,Approved,Low
+22,58,Male,Widowed,Bachelor,Self-employed,23,125078,415,0.54,24665,24,10.66,1,Car,Yes,3,Rejected,Low
+23,22,Male,Widowed,High School,Retired,28,35160,538,0.14,9710,48,6.86,3,Home,No,2,Approved,High
+24,41,Female,Widowed,PhD,Retired,24,76583,634,0.34,5328,72,14.58,1,Other,Yes,3,Approved,Medium
+25,53,Female,Widowed,Master,Employed,35,53998,740,0.45,43347,36,12.52,3,Home,Yes,4,Rejected,Medium
+26,32,Male,Married,Bachelor,Unemployed,25,47230,447,0.23,25612,48,10.38,3,Personal,Yes,0,Approved,Low
+27,42,Male,Widowed,High School,Employed,37,29076,308,0.41,11794,24,6.16,4,Education,No,1,Rejected,Low
+28,64,Female,Divorced,Bachelor,Unemployed,0,89341,587,0.51,37888,24,7.17,4,Personal,Yes,1,Approved,Low
+29,45,Male,Widowed,PhD,Retired,19,51085,687,0.2,11749,36,10.87,4,Other,Yes,3,Approved,Low
+30,69,Female,Single,Bachelor,Employed,27,75571,349,0.56,25608,48,3.4,3,Education,No,5,Rejected,Low
+31,47,Female,Widowed,Bachelor,Unemployed,15,34715,816,0.38,20450,48,5.71,3,Personal,Yes,5,Approved,Medium
+32,62,Female,Married,High School,Self-employed,16,148308,577,0.25,8675,12,11.42,1,Education,No,3,Rejected,Medium
+33,48,Female,Single,PhD,Unemployed,39,25750,599,0.32,23460,60,8.5,2,Business,No,2,Approved,Low
+34,36,Male,Married,Master,Employed,27,133931,434,0.26,43411,24,7.53,4,Home,Yes,1,Approved,Low
+35,35,Female,Married,Master,Self-employed,11,98768,446,0.46,16560,12,4.39,1,Education,No,2,Rejected,Medium
+36,67,Male,Single,High School,Unemployed,26,138544,789,0.5,37463,24,8.02,1,Business,Yes,4,Rejected,Low
+37,64,Female,Married,Bachelor,Unemployed,29,55903,777,0.52,36663,12,12.13,0,Car,Yes,1,Approved,Medium
+38,23,Male,Married,High School,Unemployed,33,92489,458,0.59,8170,60,5.8,4,Personal,No,4,Rejected,Low
+39,57,Female,Widowed,High School,Unemployed,36,52093,683,0.5,38123,12,2.57,1,Car,No,0,Rejected,Low
+40,27,Male,Divorced,High School,Unemployed,5,111036,462,0.4,33810,24,10.86,0,Other,Yes,2,Approved,High
+41,41,Male,Married,Bachelor,Self-employed,6,107954,740,0.27,14718,48,14.66,4,Business,Yes,3,Approved,Low
+42,29,Female,Married,PhD,Retired,31,139277,488,0.37,5028,24,10.09,3,Car,No,1,Rejected,Low
+43,59,Female,Married,High School,Self-employed,31,54314,714,0.12,22397,72,4,0,Car,Yes,2,Approved,Low
+44,38,Female,Widowed,Bachelor,Self-employed,24,68225,638,0.47,48662,36,6.51,3,Business,Yes,3,Rejected,High
+45,24,Female,Divorced,PhD,Self-employed,32,107985,480,0.32,46787,36,13.35,2,Home,Yes,0,Rejected,Medium
+46,45,Male,Single,High School,Retired,6,103014,587,0.11,7024,72,5.41,2,Education,No,1,Rejected,Low
+47,34,Female,Widowed,Master,Employed,11,55179,486,0.13,43607,36,10.1,2,Other,Yes,4,Rejected,Low
+48,29,Male,Widowed,PhD,Retired,15,137305,437,0.29,18503,36,7.53,2,Other,Yes,0,Rejected,Medium
+49,46,Male,Divorced,High School,Self-employed,15,132417,429,0.39,15303,60,5.1,1,Personal,Yes,5,Rejected,Low
+50,22,Female,Divorced,PhD,Unemployed,35,45338,493,0.33,22138,48,12.67,2,Education,No,3,Approved,Medium
+51,40,Male,Widowed,PhD,Unemployed,12,112435,615,0.41,30345,48,11.79,1,Personal,No,1,Rejected,Low
+52,48,Male,Single,PhD,Self-employed,6,89681,443,0.34,34505,24,10.77,1,Other,No,1,Approved,Low
+53,67,Male,Widowed,PhD,Unemployed,35,52101,315,0.43,6906,72,5.45,4,Education,Yes,0,Rejected,Medium
+54,27,Male,Divorced,PhD,Self-employed,8,22775,601,0.21,45167,12,3.72,1,Car,No,1,Approved,Low
+55,64,Female,Single,PhD,Unemployed,31,131497,722,0.16,12961,24,9.7,1,Home,Yes,3,Approved,Medium
+56,28,Female,Divorced,High School,Retired,10,117183,544,0.4,31140,24,9.42,2,Car,No,0,Approved,Low
+57,67,Female,Single,Master,Employed,7,65619,406,0.34,17031,24,4.85,1,Home,Yes,4,Rejected,Low
+58,55,Female,Married,Bachelor,Employed,32,65838,387,0.11,20128,24,3.2,3,Business,No,0,Approved,High
+59,34,Male,Divorced,PhD,Retired,22,141316,428,0.29,20663,48,3.51,2,Personal,Yes,0,Approved,Low
+60,37,Male,Divorced,Bachelor,Retired,24,39539,640,0.15,39228,12,14.91,0,Personal,Yes,4,Rejected,Medium
+61,56,Female,Widowed,High School,Self-employed,7,122274,303,0.37,20682,24,12.29,2,Business,No,5,Approved,Low
+62,60,Female,Divorced,PhD,Self-employed,21,77124,626,0.3,20193,48,14.02,1,Education,Yes,3,Approved,Medium
+63,24,Female,Divorced,Master,Self-employed,3,85149,709,0.41,33561,24,4.94,3,Business,No,5,Rejected,Medium
+64,22,Male,Married,Bachelor,Unemployed,39,46616,605,0.5,48813,36,14.51,2,Other,No,5,Approved,Low
+65,26,Female,Divorced,PhD,Self-employed,2,99655,524,0.25,12766,24,4.28,3,Business,Yes,5,Approved,Medium
+66,62,Female,Married,High School,Retired,28,110695,647,0.58,34844,72,8.86,0,Home,Yes,2,Rejected,Medium
+67,24,Female,Married,Master,Employed,28,74567,620,0.37,34432,72,12.87,0,Other,No,5,Approved,Low
+68,49,Male,Married,Bachelor,Unemployed,33,57099,480,0.41,34504,24,6.87,4,Business,No,2,Approved,Low
+69,38,Male,Married,Bachelor,Self-employed,33,95831,685,0.44,42146,60,7.81,4,Personal,No,4,Approved,Low
+70,46,Male,Single,PhD,Unemployed,27,120246,407,0.43,45297,36,4.1,2,Car,Yes,3,Approved,Low
+71,64,Male,Widowed,Master,Unemployed,12,81799,830,0.36,25858,12,4.04,4,Home,No,5,Rejected,Low
+72,54,Male,Single,Master,Self-employed,14,140714,709,0.31,8071,24,10.24,3,Home,Yes,1,Rejected,Low
+73,30,Male,Divorced,Master,Unemployed,22,110221,595,0.13,21939,12,10.94,4,Education,Yes,4,Rejected,Low
+74,56,Male,Single,Master,Employed,25,134879,470,0.11,29931,36,12.22,3,Car,No,2,Rejected,Medium
+75,34,Male,Single,High School,Retired,3,45479,630,0.28,49460,24,9.46,4,Home,No,3,Approved,Low
+76,51,Female,Divorced,Master,Retired,25,66172,792,0.27,6040,60,10.57,4,Business,Yes,0,Rejected,High
+77,68,Female,Divorced,Bachelor,Employed,39,119165,494,0.29,7686,48,2.67,4,Home,Yes,3,Rejected,Low
+78,35,Male,Divorced,Bachelor,Unemployed,8,75863,311,0.17,17666,60,4.53,1,Home,Yes,3,Approved,Low
+79,28,Male,Single,High School,Self-employed,4,62043,494,0.47,40321,60,14.81,1,Home,Yes,5,Approved,Medium
+80,34,Female,Single,Bachelor,Unemployed,31,102569,789,0.53,6779,48,3.45,4,Education,No,5,Approved,Low
+81,43,Male,Divorced,Bachelor,Employed,19,122438,481,0.57,18186,48,10.98,3,Home,Yes,2,Rejected,Low
+82,60,Male,Widowed,Master,Unemployed,10,130107,615,0.35,21459,72,4.7,2,Home,No,2,Approved,Low
+83,41,Male,Widowed,Bachelor,Retired,14,35408,329,0.45,25710,48,11.46,0,Education,No,5,Approved,Low
+84,36,Female,Married,High School,Unemployed,31,142275,395,0.53,27219,24,11.32,1,Other,No,5,Approved,Low
+85,65,Female,Divorced,Master,Employed,27,77980,680,0.31,10057,12,5.43,4,Car,Yes,1,Rejected,High
+86,38,Female,Married,PhD,Retired,21,102956,743,0.25,23733,72,5.87,0,Other,Yes,1,Rejected,Low
+87,67,Female,Widowed,Master,Unemployed,16,36351,597,0.57,24157,72,10.68,1,Personal,No,4,Rejected,Medium
+88,44,Female,Married,High School,Unemployed,25,24131,660,0.36,40030,12,7.38,2,Education,No,5,Rejected,Medium
+89,46,Male,Divorced,Master,Retired,6,136836,673,0.35,24613,72,4.93,3,Education,No,0,Rejected,Low
+90,45,Female,Divorced,Master,Self-employed,25,64825,602,0.19,48076,48,11.65,4,Home,No,1,Rejected,Low
+91,65,Male,Divorced,High School,Retired,24,31349,720,0.15,22492,60,4.43,2,Home,Yes,2,Rejected,Medium
+92,61,Male,Single,Master,Self-employed,9,80931,545,0.52,25746,36,13.2,1,Personal,No,3,Approved,Medium
+93,49,Female,Married,High School,Employed,18,64254,536,0.41,10188,48,8.93,4,Home,Yes,4,Approved,Low
+94,35,Female,Widowed,High School,Employed,10,58225,833,0.26,46570,60,3.82,0,Business,Yes,1,Approved,Low
+95,65,Male,Widowed,PhD,Retired,12,124383,484,0.2,34680,60,11.18,3,Home,Yes,3,Rejected,Low
+96,21,Male,Widowed,Bachelor,Retired,7,32453,767,0.38,42825,72,8.99,1,Home,Yes,3,Rejected,Low
+97,45,Male,Single,Bachelor,Employed,39,38814,662,0.39,41766,24,6.23,3,Business,No,1,Approved,Low
+98,27,Female,Single,Master,Self-employed,3,38263,582,0.2,13864,24,7.78,4,Personal,Yes,0,Approved,Medium
+99,29,Female,Divorced,Master,Employed,30,97694,635,0.53,41445,72,6.23,2,Business,No,0,Rejected,Low
+100,44,Female,Widowed,PhD,Retired,27,35735,461,0.14,10796,72,5.79,3,Education,Yes,4,Rejected,Medium
+101,21,Female,Single,PhD,Employed,10,35830,459,0.28,44131,12,4.55,0,Business,No,0,Rejected,Medium
+102,64,Female,Divorced,PhD,Retired,0,67893,773,0.44,13123,12,7.03,1,Car,No,4,Rejected,Low
+103,28,Male,Widowed,High School,Retired,37,64673,621,0.24,13222,36,5.64,0,Education,No,2,Rejected,Low
+104,44,Female,Married,PhD,Employed,23,147006,311,0.51,29074,36,11.04,3,Home,No,1,Rejected,Medium
+105,31,Male,Divorced,PhD,Self-employed,30,109462,723,0.47,34825,36,11.05,2,Education,No,3,Rejected,Medium
+106,37,Male,Single,Master,Unemployed,25,65066,372,0.49,41839,36,8.77,2,Personal,Yes,4,Rejected,Medium
+107,28,Male,Single,PhD,Employed,4,120315,500,0.16,46576,60,12.22,0,Personal,No,0,Approved,Low
+108,55,Female,Divorced,High School,Unemployed,19,23373,821,0.17,7786,60,13.02,4,Business,Yes,4,Rejected,Low
+109,55,Female,Divorced,High School,Employed,10,30335,804,0.24,38638,12,9.75,4,Education,No,5,Rejected,Low
+110,53,Female,Single,Master,Unemployed,32,43741,338,0.36,41964,24,10.24,2,Home,Yes,4,Rejected,Low
+111,25,Male,Married,PhD,Self-employed,37,30692,359,0.47,49564,72,6.04,0,Personal,Yes,0,Approved,Medium
+112,62,Male,Widowed,PhD,Self-employed,26,67295,620,0.52,30988,24,13.69,0,Other,Yes,5,Approved,Low
+113,59,Male,Married,High School,Employed,33,65541,734,0.45,40507,48,2.8,0,Home,No,5,Rejected,Medium
+114,61,Male,Divorced,PhD,Retired,14,54057,707,0.56,38708,60,6.86,3,Other,Yes,0,Approved,Low
+115,48,Male,Married,PhD,Unemployed,31,86983,685,0.47,38108,36,11.52,4,Car,No,5,Approved,Medium
+116,27,Male,Single,PhD,Retired,20,39583,377,0.25,34715,36,3.5,4,Other,No,1,Approved,High
+117,29,Female,Divorced,Bachelor,Retired,4,42765,493,0.23,28806,48,4.79,3,Personal,Yes,3,Rejected,Low
+118,28,Female,Widowed,Master,Retired,5,79287,584,0.45,41901,24,9.87,1,Business,Yes,1,Rejected,High
+119,32,Female,Single,Bachelor,Self-employed,37,43906,826,0.2,22043,36,9.5,3,Car,No,1,Rejected,Low
+120,54,Female,Single,Master,Employed,21,140747,823,0.15,15225,24,11.74,0,Education,No,0,Rejected,Low
+121,53,Male,Widowed,High School,Employed,17,105103,455,0.37,14752,72,12.66,3,Home,No,0,Rejected,Medium
+122,68,Male,Widowed,PhD,Self-employed,13,99675,639,0.51,8457,48,4.11,0,Personal,No,3,Rejected,High
+123,43,Female,Married,Master,Self-employed,9,66525,424,0.15,47616,24,2.73,2,Car,No,4,Rejected,Low
+124,44,Male,Divorced,Bachelor,Employed,12,58230,579,0.5,14241,72,11.12,0,Car,No,1,Approved,Low
+125,57,Female,Widowed,PhD,Retired,30,137904,427,0.51,5453,24,6.27,4,Personal,Yes,5,Rejected,Medium
+126,55,Female,Widowed,High School,Unemployed,29,39520,613,0.34,14896,24,10.32,3,Education,No,3,Rejected,Medium
+127,64,Female,Divorced,Master,Unemployed,2,105238,631,0.13,26826,36,4.38,0,Education,No,1,Rejected,Low
+128,60,Male,Widowed,Master,Unemployed,29,71934,449,0.19,15976,12,8.36,1,Business,Yes,4,Rejected,Medium
+129,42,Female,Widowed,Master,Retired,5,45566,753,0.45,38586,60,8.81,2,Other,Yes,5,Rejected,Low
+130,47,Female,Married,PhD,Employed,28,93193,335,0.46,9868,24,9.81,1,Education,Yes,1,Rejected,Low
+131,55,Female,Single,Bachelor,Self-employed,7,123224,719,0.55,21396,24,8.91,1,Business,No,2,Rejected,Low
+132,21,Male,Single,Bachelor,Employed,32,50134,321,0.39,36634,24,8.7,1,Other,Yes,3,Rejected,Low
+133,55,Male,Single,Master,Retired,16,30345,505,0.16,17171,12,6.66,2,Car,Yes,0,Approved,High
+134,57,Female,Single,High School,Self-employed,10,141012,655,0.16,29111,72,3.39,2,Personal,No,1,Approved,Low
+135,67,Male,Widowed,High School,Retired,12,141015,739,0.46,38688,48,3.62,2,Education,No,5,Rejected,High
+136,34,Male,Divorced,Bachelor,Unemployed,10,61185,395,0.19,26304,36,7.92,2,Business,No,5,Rejected,Low
+137,23,Male,Divorced,High School,Unemployed,30,135464,463,0.26,47274,12,6.95,1,Car,No,3,Approved,Medium
+138,21,Male,Married,Bachelor,Retired,27,112949,447,0.34,44243,72,8.95,4,Education,Yes,3,Rejected,Medium
+139,25,Male,Married,Master,Self-employed,5,90744,829,0.11,33253,24,6.31,4,Home,No,5,Rejected,Medium
+140,46,Male,Widowed,Bachelor,Self-employed,15,53455,593,0.22,35980,72,11.1,2,Car,Yes,5,Approved,Medium
+141,34,Male,Divorced,Bachelor,Employed,3,135217,494,0.3,7017,12,13.3,3,Education,No,5,Rejected,Low
+142,59,Male,Divorced,Master,Unemployed,34,48018,779,0.24,12957,12,6.24,0,Car,Yes,1,Rejected,Medium
+143,47,Male,Single,High School,Employed,25,74219,422,0.17,47188,12,4.91,3,Personal,No,5,Rejected,Medium
+144,29,Male,Widowed,Bachelor,Employed,11,65991,699,0.46,9792,48,3.95,3,Personal,No,0,Approved,Low
+145,35,Female,Widowed,Bachelor,Retired,10,93616,751,0.51,18237,60,10.2,3,Personal,No,5,Approved,Medium
+146,35,Female,Single,Master,Retired,36,107438,403,0.23,21251,36,8.05,4,Other,Yes,0,Rejected,Low
+147,46,Male,Widowed,High School,Employed,24,136841,761,0.49,24252,48,4.85,0,Home,Yes,1,Approved,Low
+148,62,Female,Widowed,Bachelor,Unemployed,17,29486,695,0.29,15707,48,10.66,3,Personal,Yes,3,Approved,Medium
+149,33,Female,Married,Master,Retired,18,58862,636,0.35,39206,60,4.36,2,Home,No,0,Approved,Low
+150,52,Male,Divorced,Bachelor,Employed,22,141662,441,0.53,33740,48,9.43,4,Personal,Yes,1,Rejected,Medium
+151,59,Male,Widowed,PhD,Employed,37,78870,616,0.47,8543,12,9.09,2,Other,No,5,Approved,Low
+152,69,Male,Married,Master,Employed,17,106694,826,0.5,49135,12,11.68,2,Car,No,1,Approved,Low
+153,52,Female,Divorced,High School,Employed,25,125996,700,0.17,44111,72,3.19,3,Education,No,5,Approved,Low
+154,24,Female,Single,High School,Employed,5,63856,609,0.13,40031,24,13.6,2,Education,Yes,1,Rejected,Low
+155,50,Male,Married,High School,Employed,3,121407,794,0.55,47929,48,11.29,0,Personal,No,3,Approved,Medium
+156,57,Male,Married,High School,Retired,28,120744,408,0.29,5211,24,5.2,2,Education,Yes,0,Approved,Low
+157,43,Male,Divorced,Bachelor,Unemployed,33,106055,671,0.24,44795,36,4.79,3,Personal,No,3,Rejected,Low
+158,59,Female,Single,Bachelor,Employed,16,51379,505,0.46,5331,12,7.9,2,Personal,No,2,Approved,Low
+159,65,Female,Married,High School,Self-employed,15,84729,342,0.52,28244,72,12.72,4,Business,No,5,Approved,Low
+160,35,Female,Widowed,High School,Retired,1,48378,544,0.53,13169,36,13.04,4,Business,Yes,0,Approved,Medium
+161,63,Female,Widowed,High School,Retired,33,125428,586,0.26,27104,72,9.01,4,Business,Yes,3,Rejected,Low
+162,49,Male,Widowed,Bachelor,Employed,7,74353,654,0.53,46901,60,13.26,1,Home,No,0,Rejected,Medium
+163,56,Male,Single,High School,Retired,12,69996,775,0.12,19591,12,2.57,4,Business,Yes,2,Approved,High
+164,33,Male,Married,High School,Employed,7,34031,382,0.12,36711,36,2.94,4,Personal,Yes,4,Approved,Medium
+165,52,Male,Widowed,PhD,Unemployed,29,100072,409,0.41,5727,60,13.9,1,Other,No,5,Approved,Medium
+166,27,Female,Single,PhD,Unemployed,31,85982,489,0.13,26359,36,12.19,4,Other,No,5,Approved,Low
+167,42,Female,Widowed,High School,Retired,35,56683,550,0.26,48822,72,8.13,3,Car,Yes,1,Approved,Low
+168,48,Male,Divorced,Master,Retired,29,134091,590,0.44,41011,60,11.92,4,Business,No,5,Approved,Medium
+169,22,Male,Married,High School,Self-employed,0,137797,500,0.27,42863,60,14.45,4,Other,No,5,Rejected,Medium
+170,62,Female,Married,PhD,Retired,38,37618,625,0.19,27998,12,12.15,1,Business,Yes,3,Approved,Medium
+171,65,Male,Single,Master,Self-employed,16,26587,810,0.24,15929,24,13.03,3,Car,Yes,5,Approved,Medium
+172,26,Female,Single,Master,Unemployed,19,82790,708,0.33,19842,72,12.01,2,Other,No,5,Approved,Low
+173,48,Male,Married,High School,Unemployed,23,51480,807,0.34,28519,72,4.6,0,Personal,Yes,2,Rejected,Low
+174,48,Male,Widowed,PhD,Employed,21,118530,371,0.49,22393,60,12.92,3,Home,Yes,2,Approved,Medium
+175,64,Male,Widowed,PhD,Unemployed,28,40527,546,0.48,39318,60,4.94,2,Business,No,0,Rejected,Medium
+176,64,Male,Divorced,Master,Self-employed,21,43569,643,0.33,13995,12,13.66,3,Other,No,0,Approved,Low
+177,40,Male,Widowed,High School,Retired,8,31151,353,0.52,33656,24,8.23,2,Other,No,5,Approved,Medium
+178,50,Male,Single,Bachelor,Employed,36,91094,827,0.16,45260,72,10.96,2,Car,No,5,Approved,Low
+179,31,Male,Single,Bachelor,Self-employed,9,79174,831,0.23,20567,48,8.72,3,Personal,Yes,1,Approved,Low
+180,48,Female,Widowed,PhD,Retired,35,64739,492,0.51,33840,48,3.67,1,Education,Yes,0,Approved,Medium
+181,45,Female,Single,Bachelor,Employed,36,52954,357,0.29,28831,24,6.13,3,Other,No,3,Approved,Medium
+182,59,Female,Married,PhD,Unemployed,27,132984,736,0.59,18265,36,14.8,3,Home,No,5,Rejected,Low
+183,53,Female,Married,PhD,Self-employed,27,132863,410,0.33,10424,12,14.51,2,Car,No,3,Approved,Low
+184,21,Female,Widowed,PhD,Retired,20,129373,428,0.5,25625,24,6.51,0,Other,No,5,Approved,Low
+185,47,Male,Married,Bachelor,Employed,23,55303,625,0.3,19086,48,14.95,2,Other,Yes,3,Approved,Medium
+186,33,Male,Married,PhD,Employed,39,54700,307,0.31,34187,60,13.07,4,Car,Yes,4,Rejected,Low
+187,61,Female,Divorced,Master,Unemployed,1,113036,328,0.29,40929,48,10.14,3,Car,No,3,Approved,Medium
+188,23,Male,Divorced,High School,Retired,7,143728,411,0.46,25539,60,3,3,Business,No,0,Rejected,High
+189,59,Female,Married,High School,Unemployed,26,87568,430,0.37,30103,12,13.77,1,Other,Yes,5,Approved,Medium
+190,26,Female,Widowed,PhD,Unemployed,21,86788,487,0.57,32874,60,9.47,2,Education,Yes,0,Approved,Low
+191,28,Male,Divorced,High School,Retired,36,91045,774,0.23,14215,24,13.36,1,Home,Yes,3,Rejected,Medium
+192,47,Male,Single,Bachelor,Retired,26,57842,663,0.15,44385,60,12.93,3,Personal,Yes,2,Rejected,Low
+193,29,Male,Single,Bachelor,Retired,28,33900,503,0.3,27044,36,12.91,2,Personal,No,2,Approved,Low
+194,57,Female,Single,High School,Self-employed,2,147992,511,0.41,16926,24,11.23,2,Education,Yes,2,Rejected,Low
+195,53,Male,Widowed,Bachelor,Retired,12,100059,575,0.53,36501,12,6.14,4,Car,Yes,5,Rejected,Low
+196,62,Female,Married,High School,Employed,9,21881,372,0.27,34774,24,6.7,4,Car,Yes,1,Approved,High
+197,64,Female,Single,High School,Unemployed,35,53037,542,0.43,30008,36,6.36,0,Car,No,4,Approved,Low
+198,44,Female,Widowed,High School,Self-employed,8,21630,401,0.28,22560,12,2.75,4,Other,No,3,Approved,Low
+199,35,Male,Divorced,PhD,Retired,26,40789,470,0.41,29340,48,9.78,2,Car,Yes,1,Rejected,High
+200,52,Male,Married,High School,Self-employed,33,146083,487,0.54,29976,36,11.24,4,Car,Yes,2,Approved,Low
+201,52,Female,Divorced,PhD,Retired,0,108059,740,0.22,32626,12,13.17,0,Other,No,3,Approved,Medium
+202,44,Male,Widowed,High School,Self-employed,31,103494,385,0.3,37720,60,4.25,3,Other,No,1,Rejected,Low
+203,61,Male,Single,High School,Unemployed,24,66151,775,0.6,40001,24,9.3,4,Education,Yes,0,Rejected,Low
+204,69,Male,Single,High School,Unemployed,28,68920,351,0.53,9700,12,2.6,2,Business,No,2,Approved,High
+205,69,Female,Widowed,Bachelor,Employed,6,129388,410,0.38,48795,24,3.69,3,Other,Yes,1,Rejected,Low
+206,32,Female,Single,PhD,Employed,2,87231,342,0.36,12860,60,3.18,2,Home,No,5,Rejected,Low
+207,59,Male,Married,PhD,Retired,19,137946,510,0.24,12526,12,11.57,3,Car,Yes,0,Rejected,Low
+208,22,Female,Widowed,High School,Unemployed,19,100357,499,0.36,43327,48,3.51,2,Business,Yes,2,Approved,Low
+209,23,Male,Divorced,High School,Self-employed,29,23262,325,0.52,44500,36,11.46,4,Personal,No,4,Approved,Low
+210,69,Male,Widowed,Bachelor,Self-employed,34,86981,598,0.44,7513,12,5.62,4,Education,Yes,2,Approved,Low
+211,57,Male,Married,Bachelor,Self-employed,34,140951,376,0.25,12830,60,13.47,0,Business,No,5,Rejected,Low
+212,69,Male,Married,Bachelor,Employed,38,143099,436,0.2,19781,12,12.66,3,Other,No,4,Approved,Medium
+213,37,Female,Widowed,PhD,Self-employed,26,101972,319,0.23,12910,24,14.47,0,Car,No,4,Approved,Low
+214,69,Female,Widowed,PhD,Employed,25,95485,739,0.18,20847,72,13.55,1,Car,Yes,4,Rejected,Low
+215,22,Female,Single,PhD,Employed,13,74722,510,0.15,10649,12,14.17,4,Car,Yes,3,Rejected,Low
+216,22,Male,Married,High School,Retired,16,109499,734,0.31,14120,48,13.23,3,Business,Yes,3,Approved,High
+217,48,Male,Widowed,PhD,Self-employed,17,70818,506,0.16,6951,12,11.17,0,Car,No,4,Rejected,High
+218,43,Male,Widowed,Master,Self-employed,28,49932,738,0.19,15165,36,4.63,0,Other,Yes,0,Approved,Medium
+219,57,Female,Married,Master,Unemployed,19,26901,341,0.37,19352,12,5.9,1,Business,Yes,4,Approved,Medium
+220,52,Male,Widowed,Bachelor,Retired,26,137473,710,0.18,14746,72,5.16,0,Car,Yes,1,Approved,Low
+221,53,Female,Single,PhD,Unemployed,17,119023,822,0.13,48738,24,10.04,2,Personal,Yes,4,Rejected,Low
+222,21,Female,Married,Master,Retired,3,28597,726,0.26,33997,12,8.8,4,Personal,No,3,Rejected,Medium
+223,39,Female,Single,Bachelor,Self-employed,0,149631,574,0.21,46954,48,13.34,0,Home,Yes,3,Approved,Medium
+224,22,Female,Single,PhD,Employed,0,83909,747,0.36,29183,60,14.41,0,Car,No,1,Approved,Low
+225,64,Female,Single,High School,Employed,25,92391,668,0.15,13804,12,7.56,1,Car,No,1,Approved,Low
+226,46,Female,Single,Master,Employed,19,104214,519,0.48,32169,12,8.83,2,Business,No,2,Approved,High
+227,52,Male,Married,High School,Employed,22,28263,531,0.55,5595,36,14.64,0,Business,No,0,Rejected,Medium
+228,26,Male,Single,PhD,Employed,9,83293,627,0.47,34592,48,5.95,4,Car,Yes,0,Approved,Low
+229,52,Female,Single,Master,Unemployed,10,132824,742,0.37,45643,72,12.4,4,Home,Yes,0,Approved,Medium
+230,24,Female,Widowed,PhD,Retired,4,144933,351,0.53,25823,60,5.32,0,Car,Yes,5,Rejected,Low
+231,31,Male,Married,High School,Self-employed,0,45805,675,0.45,10972,24,11.02,2,Other,No,3,Approved,Low
+232,37,Female,Married,Master,Unemployed,16,111679,562,0.11,20882,12,5.67,4,Business,Yes,0,Approved,Low
+233,58,Female,Divorced,High School,Retired,21,31874,566,0.3,5858,72,13.55,4,Car,No,2,Approved,Low
+234,44,Male,Married,PhD,Employed,33,113065,658,0.53,10519,60,9.52,2,Business,Yes,2,Approved,Low
+235,25,Female,Married,PhD,Retired,28,106402,616,0.27,28769,24,4.82,2,Car,Yes,0,Approved,Medium
+236,54,Female,Divorced,High School,Retired,3,34079,623,0.12,30020,72,5.3,0,Education,Yes,1,Rejected,Low
+237,26,Female,Married,Master,Employed,4,69850,720,0.47,47748,48,8.67,3,Business,No,2,Rejected,Low
+238,42,Male,Married,High School,Employed,10,92779,345,0.5,42085,48,14.52,1,Home,Yes,1,Rejected,Low
+239,31,Male,Married,PhD,Employed,20,115408,568,0.18,24838,60,12.12,3,Education,No,3,Rejected,Low
+240,68,Male,Married,High School,Self-employed,34,29018,680,0.37,49912,24,8.6,3,Other,No,5,Approved,Medium
+241,36,Female,Divorced,PhD,Employed,11,140606,417,0.2,17879,48,6.72,4,Car,No,2,Rejected,Medium
+242,53,Female,Married,High School,Self-employed,25,69500,415,0.46,38798,60,9.37,2,Other,Yes,1,Rejected,High
+243,29,Male,Married,Master,Employed,18,140062,559,0.24,47255,48,11.85,4,Business,Yes,0,Rejected,High
+244,26,Female,Divorced,Master,Self-employed,6,32100,374,0.26,29290,48,12.3,1,Education,No,3,Rejected,Low
+245,36,Female,Widowed,High School,Retired,6,77021,779,0.52,15255,72,6.56,0,Other,No,4,Rejected,Low
+246,49,Female,Single,High School,Unemployed,25,134995,604,0.34,6447,72,11.51,1,Home,No,4,Rejected,Medium
+247,23,Female,Widowed,Master,Retired,39,39800,306,0.43,48005,48,10.72,4,Business,No,0,Rejected,High
+248,40,Female,Divorced,PhD,Retired,4,148126,665,0.3,34195,36,14.49,4,Education,No,3,Rejected,Medium
+249,56,Male,Single,Master,Employed,20,83400,822,0.25,7850,72,14.14,4,Other,Yes,3,Approved,Medium
+250,39,Female,Divorced,PhD,Self-employed,13,112446,647,0.41,33400,24,12.37,4,Education,Yes,3,Rejected,Medium
+251,46,Male,Divorced,High School,Unemployed,3,49437,737,0.18,16953,60,11.54,3,Education,Yes,3,Approved,Low
+252,23,Female,Married,High School,Employed,22,123124,514,0.29,45874,60,5.93,0,Other,No,4,Rejected,Low
+253,39,Male,Single,PhD,Employed,19,96537,728,0.2,28535,24,13.07,3,Personal,No,1,Rejected,Medium
+254,40,Female,Married,High School,Employed,14,66675,797,0.45,15000,24,7.84,4,Car,Yes,3,Rejected,Medium
+255,52,Male,Single,PhD,Retired,28,39942,839,0.57,14503,24,5.9,2,Business,Yes,1,Approved,Low
+256,27,Female,Divorced,Bachelor,Self-employed,7,40862,666,0.6,20493,24,7.3,3,Business,No,3,Approved,Low
+257,61,Male,Divorced,Master,Self-employed,18,31669,612,0.33,9055,12,12.95,4,Business,No,2,Rejected,Low
+258,53,Female,Widowed,Bachelor,Unemployed,38,141219,837,0.23,43170,60,4.36,4,Education,No,5,Approved,Low
+259,60,Male,Single,PhD,Self-employed,27,73772,353,0.32,37408,12,8.2,0,Other,Yes,2,Rejected,High
+260,59,Female,Married,Master,Self-employed,26,35916,840,0.52,47049,48,8.65,1,Car,No,5,Approved,Low
+261,38,Male,Widowed,PhD,Employed,3,30878,766,0.2,39440,48,2.96,3,Home,No,2,Approved,Low
+262,60,Male,Widowed,Master,Employed,14,22985,463,0.58,33251,60,4.95,3,Business,No,3,Approved,Low
+263,21,Female,Widowed,Master,Retired,34,117905,633,0.27,9532,48,12.83,3,Other,Yes,1,Rejected,Medium
+264,31,Female,Married,Master,Employed,36,93648,846,0.59,9924,24,12.88,4,Car,No,5,Approved,Low
+265,48,Male,Widowed,Master,Employed,0,61235,647,0.52,17546,12,6.16,0,Car,Yes,4,Approved,Low
+266,45,Female,Married,PhD,Employed,2,38931,572,0.5,31579,24,13.44,4,Personal,No,0,Rejected,Low
+267,43,Male,Widowed,Master,Employed,23,112876,713,0.26,11085,48,12.15,4,Other,No,5,Approved,Low
+268,51,Male,Married,Master,Retired,26,20336,799,0.1,17390,72,7.72,2,Business,Yes,5,Rejected,Low
+269,50,Male,Divorced,Bachelor,Employed,39,62933,392,0.29,18280,12,11.86,0,Education,No,4,Rejected,Low
+270,62,Female,Divorced,High School,Unemployed,35,104899,378,0.25,29118,24,14.52,3,Car,Yes,3,Approved,High
+271,55,Male,Divorced,High School,Unemployed,33,65536,516,0.12,9864,60,8.24,1,Car,No,2,Rejected,Low
+272,27,Male,Divorced,Bachelor,Unemployed,28,89504,657,0.35,47084,24,5.48,3,Home,Yes,2,Approved,Low
+273,36,Female,Divorced,Bachelor,Unemployed,23,119214,806,0.3,38989,72,14.27,4,Personal,No,1,Approved,Medium
+274,46,Female,Widowed,PhD,Employed,23,71148,480,0.42,40628,48,10.05,0,Car,Yes,3,Rejected,Low
+275,68,Female,Widowed,PhD,Unemployed,3,133936,545,0.41,31849,12,3.82,0,Car,Yes,4,Approved,Medium
+276,69,Female,Widowed,PhD,Employed,2,36279,543,0.16,32566,60,9.66,0,Education,No,3,Approved,Low
+277,22,Male,Married,Bachelor,Retired,33,88665,805,0.59,15702,12,8.76,2,Education,Yes,3,Rejected,Low
+278,21,Male,Married,Bachelor,Unemployed,22,123751,721,0.19,46196,60,13.19,3,Home,No,2,Rejected,Medium
+279,68,Male,Married,Master,Self-employed,22,124433,619,0.32,20385,12,9.13,2,Other,Yes,4,Approved,High
+280,32,Male,Married,PhD,Unemployed,4,91386,386,0.34,14336,48,5.69,1,Home,No,0,Rejected,Low
+281,25,Female,Divorced,PhD,Unemployed,30,106124,516,0.51,36225,60,10.95,4,Home,No,5,Rejected,Low
+282,57,Male,Divorced,PhD,Employed,5,125750,789,0.15,41021,36,9.28,2,Education,No,2,Rejected,Low
+283,52,Male,Divorced,High School,Unemployed,36,97485,818,0.31,8782,12,5.41,2,Other,No,4,Rejected,High
+284,29,Female,Single,Master,Self-employed,9,94055,577,0.41,28341,12,9.67,4,Education,Yes,1,Approved,High
+285,61,Male,Widowed,PhD,Employed,39,111911,468,0.21,29094,24,12.77,0,Personal,No,5,Approved,Low
+286,55,Male,Married,PhD,Employed,6,118618,629,0.41,28866,60,2.86,4,Business,No,5,Rejected,Low
+287,39,Male,Married,PhD,Retired,38,97273,740,0.56,24049,72,10.39,3,Business,No,2,Approved,Low
+288,68,Male,Divorced,High School,Retired,37,86670,690,0.6,47719,36,6.87,4,Personal,No,1,Rejected,Low
+289,36,Male,Married,High School,Unemployed,20,96474,795,0.12,35992,48,6.16,0,Business,No,2,Rejected,Low
+290,23,Male,Married,Bachelor,Retired,19,74028,680,0.22,19567,24,7.41,4,Other,Yes,3,Approved,Low
+291,40,Female,Widowed,Master,Retired,2,110022,605,0.26,49451,36,6.78,2,Education,No,4,Approved,Medium
+292,44,Female,Divorced,Bachelor,Retired,21,133892,812,0.3,8513,60,12.9,1,Business,Yes,1,Approved,High
+293,53,Male,Widowed,Master,Employed,3,111632,487,0.22,18335,36,5.93,2,Other,Yes,5,Approved,High
+294,44,Male,Single,High School,Employed,27,126651,815,0.2,49140,12,11.66,1,Education,No,2,Rejected,Low
+295,31,Female,Single,PhD,Employed,11,91128,726,0.58,43590,12,3.68,4,Other,No,5,Rejected,Low
+296,69,Male,Single,Bachelor,Retired,37,38108,801,0.56,19837,24,14.39,3,Personal,Yes,1,Approved,Medium
+297,28,Male,Divorced,PhD,Employed,35,72495,559,0.12,17122,60,10.28,4,Home,Yes,5,Rejected,Low
+298,56,Male,Married,Bachelor,Retired,4,102806,812,0.27,39840,60,11.33,0,Personal,Yes,2,Approved,Medium
+299,58,Female,Divorced,High School,Employed,12,113185,370,0.3,36007,36,6.23,4,Business,No,2,Approved,Low
+300,60,Male,Divorced,High School,Employed,22,96533,777,0.22,46297,24,7.65,1,Education,Yes,0,Approved,Low
+301,40,Female,Married,High School,Self-employed,29,119025,477,0.41,32684,60,5.3,2,Other,Yes,5,Rejected,Low
+302,55,Male,Widowed,Bachelor,Unemployed,36,76830,756,0.42,31393,72,14.16,3,Business,No,0,Rejected,Low
+303,68,Female,Single,Master,Retired,24,94640,488,0.53,27754,72,8.6,4,Business,Yes,0,Approved,Medium
+304,45,Female,Widowed,Bachelor,Self-employed,26,72509,590,0.47,25799,12,10.38,4,Home,No,5,Approved,Low
+305,55,Male,Single,Master,Employed,13,86406,819,0.37,43727,36,11.68,2,Business,Yes,1,Approved,Low
+306,45,Female,Divorced,Bachelor,Retired,35,114220,591,0.43,14107,48,7.14,3,Home,No,3,Approved,Low
+307,49,Male,Single,Bachelor,Employed,38,59519,582,0.24,10993,12,11.5,4,Education,Yes,2,Rejected,Medium
+308,38,Female,Divorced,High School,Unemployed,15,69649,843,0.4,35805,24,10.95,4,Education,No,4,Rejected,Low
+309,66,Male,Widowed,PhD,Self-employed,21,54524,676,0.34,33114,60,11.32,1,Other,No,0,Approved,Low
+310,38,Male,Divorced,PhD,Unemployed,20,116493,455,0.17,42789,12,8.62,1,Home,Yes,1,Approved,Low
+311,22,Female,Widowed,Master,Self-employed,20,53885,807,0.22,47942,48,7.29,0,Personal,No,5,Rejected,Low
+312,55,Male,Married,PhD,Employed,7,64369,712,0.25,21138,48,5.28,2,Education,Yes,1,Approved,Low
+313,36,Male,Married,Bachelor,Unemployed,15,121132,827,0.56,49527,72,12.81,3,Other,No,1,Rejected,Medium
+314,61,Female,Married,Bachelor,Unemployed,30,115402,654,0.22,14190,24,10.1,4,Personal,No,5,Rejected,Low
+315,56,Male,Divorced,High School,Employed,9,50676,486,0.24,31723,12,8.05,4,Education,No,4,Approved,Low
+316,53,Male,Married,High School,Unemployed,31,84093,330,0.28,17886,36,14.3,0,Education,No,5,Rejected,Medium
+317,24,Female,Single,PhD,Retired,33,67764,559,0.43,21779,12,3.1,4,Other,No,4,Rejected,Low
+318,53,Female,Widowed,Master,Self-employed,8,70799,720,0.16,33174,72,13.13,2,Other,No,5,Rejected,Low
+319,34,Male,Widowed,PhD,Self-employed,16,99414,828,0.58,34086,48,14.97,0,Car,No,0,Rejected,Low
+320,41,Male,Single,PhD,Self-employed,10,125296,603,0.53,22322,24,13.59,2,Business,Yes,4,Approved,Low
+321,68,Female,Divorced,PhD,Retired,31,113095,338,0.39,47596,24,12.63,0,Business,Yes,0,Rejected,Medium
+322,40,Female,Divorced,PhD,Self-employed,9,132082,788,0.44,40278,36,7.18,4,Personal,No,4,Rejected,Medium
+323,28,Male,Widowed,Bachelor,Employed,21,92307,841,0.11,23033,24,5.39,0,Business,No,4,Rejected,Medium
+324,27,Female,Married,Master,Unemployed,16,102062,577,0.27,25074,72,11.69,1,Personal,No,5,Approved,Medium
+325,23,Male,Divorced,Bachelor,Retired,3,115432,502,0.5,8435,72,6.31,3,Education,Yes,4,Approved,Low
+326,37,Male,Divorced,Master,Self-employed,24,51923,365,0.14,40969,72,4.7,4,Car,No,0,Approved,Low
+327,53,Male,Single,High School,Employed,20,137449,407,0.24,33942,24,12.33,3,Car,Yes,5,Rejected,Low
+328,68,Male,Single,PhD,Unemployed,36,121739,567,0.39,34059,24,6.41,4,Education,No,2,Approved,Low
+329,32,Male,Married,Bachelor,Unemployed,37,124926,521,0.23,37826,72,13.93,3,Other,No,0,Approved,High
+330,42,Female,Divorced,Master,Retired,0,98388,829,0.57,35297,24,13.01,1,Home,No,2,Approved,Medium
+331,42,Female,Divorced,High School,Retired,24,67574,389,0.17,48890,24,13.1,3,Home,No,1,Rejected,Low
+332,66,Female,Single,High School,Retired,35,63391,554,0.5,26322,48,12.14,0,Business,No,5,Approved,Low
+333,50,Female,Divorced,PhD,Employed,16,148691,754,0.35,40739,12,13.51,3,Other,Yes,1,Approved,Low
+334,58,Male,Widowed,Master,Employed,23,141757,552,0.48,14719,60,12.57,4,Personal,No,5,Approved,Low
+335,58,Male,Single,Bachelor,Retired,1,73664,556,0.26,19017,24,10.03,2,Car,Yes,5,Rejected,Low
+336,65,Male,Married,PhD,Self-employed,39,87384,682,0.36,13314,60,6.2,3,Business,Yes,0,Rejected,Low
+337,28,Male,Single,Bachelor,Unemployed,14,51027,741,0.53,33295,60,13.6,3,Education,No,2,Approved,Medium
+338,47,Female,Divorced,High School,Unemployed,31,55464,389,0.33,14628,48,13.01,3,Other,No,5,Approved,Medium
+339,47,Male,Married,Bachelor,Employed,38,54485,689,0.28,47122,24,8.41,4,Car,No,2,Approved,Low
+340,54,Male,Single,Bachelor,Unemployed,5,148366,343,0.37,16492,72,2.99,3,Personal,Yes,5,Rejected,Low
+341,41,Female,Widowed,PhD,Self-employed,0,39456,318,0.46,41113,60,10.48,4,Personal,Yes,2,Rejected,Low
+342,50,Female,Widowed,Bachelor,Unemployed,22,94795,400,0.32,20357,24,3.13,4,Home,Yes,1,Approved,Medium
+343,53,Female,Single,PhD,Employed,38,55554,656,0.57,38329,36,14.08,2,Business,No,0,Rejected,Medium
+344,48,Female,Widowed,High School,Employed,16,66922,841,0.25,25365,72,14.52,0,Education,Yes,5,Approved,High
+345,67,Male,Widowed,PhD,Self-employed,33,33409,332,0.34,44029,36,4.87,4,Car,Yes,3,Rejected,Low
+346,53,Male,Widowed,PhD,Self-employed,28,89327,528,0.48,6737,36,10.95,1,Personal,Yes,2,Approved,Medium
+347,25,Female,Married,Master,Unemployed,8,111400,823,0.44,14096,60,3.65,3,Car,No,2,Rejected,Low
+348,68,Male,Widowed,Bachelor,Unemployed,12,56639,454,0.53,24938,36,11.62,1,Education,Yes,3,Approved,Low
+349,39,Male,Widowed,High School,Employed,5,120110,722,0.6,17682,48,6.84,3,Car,Yes,0,Rejected,Low
+350,24,Male,Widowed,PhD,Self-employed,5,83627,545,0.31,32499,48,11.01,2,Business,No,2,Approved,Low
+351,55,Female,Married,High School,Self-employed,19,103424,704,0.16,49491,60,7.16,4,Home,No,0,Approved,Medium
+352,69,Male,Single,Master,Self-employed,2,39692,840,0.12,49866,24,4.32,0,Car,No,2,Approved,Low
+353,37,Female,Divorced,Bachelor,Unemployed,16,109037,460,0.46,46894,12,7.58,4,Other,Yes,4,Approved,Low
+354,64,Male,Widowed,PhD,Self-employed,11,98840,416,0.54,46034,24,3.91,3,Home,Yes,2,Rejected,Low
+355,48,Male,Single,Bachelor,Employed,0,74200,570,0.21,5294,24,9.71,0,Education,Yes,4,Approved,Low
+356,50,Male,Widowed,Master,Employed,16,113063,786,0.18,37536,24,3.01,4,Home,No,5,Rejected,Low
+357,49,Female,Married,Master,Unemployed,2,77415,471,0.13,29596,24,9.09,0,Car,Yes,0,Rejected,Low
+358,66,Male,Single,High School,Retired,25,38074,573,0.51,37649,72,13.58,3,Car,No,2,Approved,Low
+359,26,Female,Married,PhD,Unemployed,14,35549,558,0.26,16434,12,12.97,2,Other,No,1,Approved,Low
+360,55,Female,Widowed,High School,Retired,35,49963,434,0.3,43098,72,13.53,2,Personal,Yes,1,Approved,High
+361,61,Female,Widowed,Master,Self-employed,31,111456,721,0.35,9655,36,14.03,4,Other,Yes,3,Approved,Low
+362,57,Male,Married,Bachelor,Unemployed,31,116362,720,0.52,22493,24,3.81,1,Car,Yes,1,Rejected,Low
+363,44,Male,Divorced,High School,Employed,3,121607,485,0.43,8771,48,4.11,3,Home,No,4,Rejected,Low
+364,49,Male,Married,High School,Self-employed,17,72265,663,0.41,13563,60,9.46,4,Other,No,1,Rejected,Medium
+365,69,Male,Widowed,Bachelor,Employed,18,36061,677,0.19,22558,60,13.67,4,Other,Yes,1,Rejected,Medium
+366,66,Female,Married,High School,Self-employed,34,78226,822,0.36,38932,72,14.68,2,Personal,No,1,Approved,Low
+367,51,Female,Divorced,Bachelor,Unemployed,39,48810,495,0.46,47243,72,3.08,0,Car,Yes,2,Rejected,Low
+368,55,Female,Married,PhD,Retired,13,80006,397,0.59,31567,48,6.95,3,Car,Yes,3,Approved,Medium
+369,53,Male,Divorced,Bachelor,Self-employed,32,142538,321,0.2,37376,24,5.16,0,Education,Yes,0,Approved,Medium
+370,41,Female,Divorced,PhD,Retired,13,133502,749,0.1,26922,12,11.95,3,Personal,No,3,Rejected,Medium
+371,52,Male,Married,Bachelor,Self-employed,33,42800,471,0.14,17388,36,10.5,1,Education,No,4,Rejected,Medium
+372,43,Female,Married,Master,Employed,3,136192,682,0.29,34332,60,4,2,Education,Yes,2,Rejected,Medium
+373,53,Male,Single,Master,Employed,23,128959,433,0.51,28495,36,8.54,1,Education,Yes,5,Rejected,Low
+374,23,Male,Widowed,PhD,Self-employed,28,145433,725,0.1,13434,12,11.07,4,Business,No,2,Rejected,Low
+375,38,Female,Divorced,PhD,Retired,18,127228,324,0.33,25991,72,12.24,2,Education,Yes,1,Rejected,Medium
+376,45,Female,Single,Master,Unemployed,5,95476,802,0.26,32472,60,2.75,4,Other,No,1,Approved,Medium
+377,62,Female,Married,PhD,Unemployed,32,89460,484,0.13,45030,36,13.63,1,Home,Yes,4,Approved,Low
+378,51,Female,Widowed,Bachelor,Employed,39,77767,384,0.33,31849,72,9.62,3,Other,No,5,Approved,High
+379,23,Male,Single,Bachelor,Unemployed,18,48054,443,0.23,6541,12,12.65,4,Other,Yes,2,Rejected,Low
+380,60,Female,Divorced,Master,Employed,0,95319,711,0.28,7765,36,12.6,0,Car,No,5,Approved,Low
+381,66,Female,Single,High School,Unemployed,4,122789,523,0.45,48074,24,4.87,3,Business,Yes,0,Approved,Medium
+382,44,Female,Divorced,Bachelor,Self-employed,26,65397,519,0.36,42259,72,3.88,3,Education,No,3,Approved,Low
+383,52,Male,Married,PhD,Employed,15,33233,478,0.16,34283,12,11.52,1,Car,No,2,Approved,Low
+384,67,Male,Widowed,High School,Employed,5,131205,732,0.58,40851,36,4.46,1,Personal,No,5,Approved,Low
+385,42,Female,Widowed,High School,Self-employed,39,110020,564,0.42,39625,24,13.12,2,Personal,No,0,Approved,Low
+386,43,Male,Widowed,Bachelor,Employed,12,45068,728,0.48,5769,24,11.58,2,Car,Yes,0,Rejected,Low
+387,22,Female,Married,Bachelor,Unemployed,34,85727,715,0.14,22806,12,13.02,0,Home,No,3,Rejected,Low
+388,47,Male,Divorced,High School,Unemployed,18,110610,752,0.12,29982,48,6.24,3,Car,No,0,Rejected,Low
+389,62,Male,Married,High School,Employed,11,90453,496,0.11,7972,60,6.46,0,Car,Yes,4,Approved,High
+390,22,Male,Widowed,Master,Unemployed,15,124135,352,0.19,23256,12,10.89,0,Business,No,0,Rejected,High
+391,46,Male,Married,PhD,Retired,9,45832,779,0.31,43367,24,2.89,1,Personal,Yes,5,Rejected,Low
+392,37,Female,Married,Master,Employed,24,128464,742,0.57,23653,24,11.58,0,Personal,No,4,Approved,Medium
+393,60,Female,Married,Bachelor,Self-employed,19,106242,629,0.33,43043,12,12.95,0,Education,No,0,Rejected,Low
+394,53,Female,Divorced,Master,Retired,30,33682,550,0.25,26133,48,7.69,4,Other,No,1,Approved,Low
+395,29,Male,Single,Master,Employed,3,112298,422,0.38,44339,60,12.06,2,Car,No,0,Rejected,Low
+396,63,Female,Single,Master,Self-employed,22,43383,686,0.16,30757,36,4.68,2,Car,No,4,Approved,High
+397,68,Female,Married,Master,Unemployed,1,78160,638,0.4,42840,12,6.53,3,Home,No,0,Approved,High
+398,59,Female,Single,PhD,Self-employed,21,113332,647,0.38,47399,60,14.68,2,Personal,Yes,0,Rejected,Low
+399,49,Male,Single,PhD,Retired,36,43666,328,0.5,49013,60,14.83,3,Home,Yes,0,Approved,Low
+400,62,Male,Married,High School,Unemployed,7,78817,334,0.59,37069,72,8.91,4,Business,No,4,Rejected,Low
+401,46,Male,Married,Bachelor,Employed,6,111198,817,0.23,19706,24,14.18,2,Education,No,0,Approved,Low
+402,55,Female,Widowed,Master,Unemployed,13,130695,695,0.35,43231,36,9.03,4,Home,Yes,3,Rejected,Low
+403,45,Female,Single,High School,Employed,2,54642,593,0.55,32909,12,6.14,2,Personal,Yes,5,Rejected,Low
+404,44,Female,Divorced,High School,Employed,15,61830,648,0.49,45218,24,5.84,2,Business,No,3,Approved,Medium
+405,33,Male,Married,High School,Self-employed,18,123067,446,0.34,16095,72,14.12,4,Car,No,4,Rejected,Low
+406,27,Male,Widowed,PhD,Self-employed,17,30234,366,0.57,25343,72,4.66,0,Business,No,1,Rejected,High
+407,56,Female,Divorced,Master,Self-employed,15,77616,819,0.13,31469,24,9.75,0,Other,No,3,Rejected,Medium
+408,65,Male,Single,Master,Retired,7,29221,421,0.57,6313,48,9.44,0,Home,No,5,Approved,Low
+409,40,Male,Widowed,Bachelor,Retired,32,31410,639,0.13,12847,60,11.75,0,Personal,No,2,Approved,Medium
+410,21,Male,Married,Master,Self-employed,11,100055,474,0.37,14166,12,8.74,2,Home,Yes,5,Rejected,Medium
+411,28,Male,Divorced,Master,Retired,10,81413,750,0.55,14930,12,5.9,1,Car,No,3,Rejected,Low
+412,66,Female,Married,High School,Unemployed,4,21051,435,0.23,8285,12,4.62,4,Car,No,2,Approved,Low
+413,36,Male,Single,Bachelor,Unemployed,26,130529,315,0.34,40863,24,10.26,1,Personal,Yes,4,Approved,High
+414,34,Male,Divorced,Master,Retired,11,95301,632,0.26,21704,48,11.49,1,Other,Yes,5,Rejected,Low
+415,32,Male,Single,PhD,Retired,16,96918,494,0.58,23705,36,9.62,3,Education,Yes,1,Approved,Low
+416,43,Male,Single,Master,Unemployed,5,98116,795,0.51,5555,72,11.73,0,Business,Yes,2,Approved,Low
+417,35,Female,Widowed,High School,Employed,32,142226,308,0.45,26323,24,4.27,2,Business,No,2,Rejected,Medium
+418,48,Female,Married,PhD,Unemployed,4,76563,633,0.39,10432,36,13.53,0,Car,Yes,5,Approved,Medium
+419,54,Male,Divorced,High School,Unemployed,27,117859,632,0.51,6386,72,9.78,0,Home,Yes,3,Approved,High
+420,22,Male,Single,Master,Retired,13,64757,626,0.3,49007,72,4.09,1,Home,No,2,Approved,Low
+421,52,Male,Single,PhD,Unemployed,4,146169,314,0.32,15619,48,8.27,3,Other,Yes,4,Rejected,Low
+422,43,Male,Divorced,Bachelor,Retired,32,141008,525,0.47,11854,60,13.06,0,Education,Yes,5,Approved,Low
+423,42,Male,Single,Bachelor,Retired,18,97475,724,0.28,47964,12,13.72,4,Home,No,4,Rejected,Medium
+424,45,Male,Widowed,PhD,Self-employed,21,71257,707,0.13,12637,36,5.81,4,Business,No,5,Approved,Low
+425,42,Female,Widowed,PhD,Unemployed,4,115500,412,0.14,26225,24,11.39,0,Home,No,4,Approved,Low
+426,42,Male,Widowed,High School,Employed,1,20307,727,0.16,31739,36,3.75,1,Education,No,3,Rejected,Low
+427,69,Female,Widowed,PhD,Self-employed,29,76889,300,0.53,15618,60,2.92,1,Business,No,5,Rejected,Low
+428,62,Female,Single,High School,Retired,38,88895,565,0.34,41561,12,9.5,2,Home,No,1,Rejected,Medium
+429,26,Male,Divorced,Master,Retired,3,115184,790,0.46,12373,36,11.19,3,Business,No,3,Rejected,Medium
+430,35,Female,Divorced,High School,Employed,32,55944,507,0.3,40281,60,12.45,1,Car,Yes,4,Approved,High
+431,63,Female,Divorced,PhD,Retired,12,119555,668,0.23,25187,24,6.75,2,Car,Yes,5,Rejected,Low
+432,57,Female,Divorced,PhD,Unemployed,19,58134,605,0.27,7327,48,2.58,4,Other,No,3,Rejected,High
+433,53,Female,Married,Master,Self-employed,6,47323,311,0.5,37391,72,8.49,4,Car,Yes,4,Rejected,Medium
+434,28,Female,Divorced,PhD,Retired,14,136205,644,0.41,46577,24,2.7,4,Home,No,0,Approved,Low
+435,64,Female,Married,PhD,Retired,22,91762,764,0.57,23549,12,3.65,0,Education,Yes,0,Approved,High
+436,64,Male,Married,Bachelor,Employed,13,107225,793,0.44,44220,72,6.58,3,Business,No,2,Rejected,Low
+437,25,Female,Widowed,Bachelor,Unemployed,22,116507,667,0.39,12642,24,7.96,2,Personal,Yes,1,Rejected,Medium
+438,59,Female,Married,Master,Retired,18,45954,719,0.41,19435,24,5.99,3,Car,No,0,Rejected,Medium
+439,24,Female,Single,High School,Employed,28,75021,470,0.57,38760,24,9.77,0,Car,Yes,4,Rejected,Medium
+440,26,Male,Married,Bachelor,Retired,19,109959,433,0.49,43192,24,3.19,2,Personal,No,3,Approved,Low
+441,65,Female,Widowed,High School,Employed,28,115927,726,0.11,9381,72,4.31,2,Personal,Yes,5,Rejected,Low
+442,52,Male,Married,PhD,Employed,23,99866,324,0.37,36047,12,11.19,1,Home,Yes,3,Approved,Low
+443,50,Female,Single,Bachelor,Unemployed,17,90427,829,0.44,24558,60,4.28,3,Business,No,2,Rejected,Low
+444,67,Male,Single,Master,Retired,9,24992,489,0.47,35782,36,10.5,3,Car,Yes,3,Rejected,Medium
+445,55,Male,Single,Master,Unemployed,7,21961,440,0.21,9782,48,3.18,1,Education,Yes,0,Approved,Medium
+446,60,Female,Widowed,Master,Employed,25,32497,614,0.53,30881,36,7.59,4,Home,Yes,3,Rejected,High
+447,36,Female,Widowed,Bachelor,Self-employed,28,137551,743,0.58,45228,36,4.72,0,Home,Yes,0,Rejected,Low
+448,33,Male,Divorced,High School,Retired,9,52551,618,0.22,34409,48,3.87,3,Education,Yes,0,Rejected,Medium
+449,62,Female,Widowed,PhD,Self-employed,16,96384,740,0.54,24462,72,9.59,1,Education,No,1,Rejected,High
+450,50,Male,Single,High School,Retired,1,145374,391,0.15,7983,12,14.1,2,Other,No,2,Approved,Medium
+451,39,Male,Single,High School,Unemployed,5,75755,478,0.13,36933,48,3.18,1,Education,Yes,4,Rejected,Low
+452,37,Male,Widowed,PhD,Unemployed,4,33255,355,0.16,7523,12,7.77,4,Personal,No,0,Rejected,Low
+453,39,Male,Married,PhD,Unemployed,27,24567,454,0.13,14677,72,11.34,0,Car,Yes,5,Approved,Low
+454,48,Male,Widowed,Bachelor,Unemployed,4,68847,410,0.52,15292,36,8.28,4,Other,No,2,Rejected,Medium
+455,46,Female,Widowed,Bachelor,Unemployed,17,124817,436,0.13,20089,12,12.58,2,Personal,Yes,4,Approved,Medium
+456,57,Male,Single,Bachelor,Self-employed,25,68003,531,0.24,9581,72,4.75,2,Other,Yes,5,Rejected,High
+457,46,Male,Divorced,Bachelor,Unemployed,19,40389,767,0.15,16907,72,14.49,2,Car,Yes,3,Rejected,Low
+458,43,Female,Single,Bachelor,Employed,26,64523,780,0.25,10609,60,7.31,2,Other,Yes,2,Rejected,Low
+459,29,Male,Divorced,PhD,Employed,11,143802,367,0.15,49143,48,6.77,1,Personal,No,5,Approved,Medium
+460,32,Female,Single,High School,Self-employed,6,81576,548,0.43,27936,60,13.43,2,Business,No,2,Approved,Medium
+461,21,Female,Widowed,Bachelor,Retired,2,147342,622,0.17,47725,36,9.55,2,Car,No,2,Rejected,High
+462,21,Female,Single,Bachelor,Employed,9,63919,817,0.53,38988,48,8.96,1,Home,Yes,3,Approved,Medium
+463,67,Male,Single,High School,Retired,33,102103,731,0.51,34506,36,11.59,2,Car,No,3,Rejected,Low
+464,54,Male,Single,Bachelor,Self-employed,24,142443,786,0.11,18163,60,9.75,4,Car,No,2,Approved,Medium
+465,52,Male,Widowed,High School,Retired,34,23358,728,0.55,17537,72,4.53,4,Car,Yes,5,Rejected,Medium
+466,68,Female,Widowed,High School,Retired,15,108535,568,0.11,27419,36,10.93,3,Business,Yes,1,Approved,Low
+467,45,Male,Widowed,PhD,Retired,1,127894,836,0.22,47578,48,4.17,4,Personal,Yes,0,Rejected,Low
+468,60,Female,Widowed,Master,Retired,23,141485,447,0.12,14455,48,12.57,0,Home,No,3,Approved,Low
+469,65,Male,Divorced,PhD,Self-employed,9,96524,417,0.27,14063,36,14.87,0,Personal,No,1,Approved,Low
+470,21,Female,Divorced,Master,Employed,37,143416,666,0.36,5834,48,7.22,0,Other,Yes,3,Approved,Medium
+471,36,Male,Married,Master,Unemployed,21,125982,365,0.5,37214,72,8.06,1,Other,No,2,Approved,Low
+472,59,Male,Widowed,Master,Retired,25,117057,669,0.27,32398,72,3.08,4,Other,Yes,1,Rejected,Low
+473,25,Male,Divorced,Bachelor,Employed,38,25698,474,0.45,39492,48,2.67,0,Personal,No,5,Rejected,Low
+474,42,Female,Single,PhD,Employed,26,86809,794,0.19,7413,36,14.02,3,Education,Yes,5,Approved,Low
+475,49,Female,Widowed,Master,Self-employed,28,113079,413,0.48,14505,60,4.11,1,Business,No,4,Rejected,Low
+476,23,Male,Married,High School,Employed,37,75805,410,0.22,42266,48,8.07,3,Education,No,0,Approved,Medium
+477,32,Male,Married,Bachelor,Self-employed,19,51349,738,0.17,7105,48,12.69,4,Other,No,0,Rejected,Low
+478,46,Female,Married,PhD,Retired,26,96777,446,0.19,7568,48,13.62,2,Business,Yes,3,Approved,Low
+479,36,Female,Single,Master,Retired,19,70248,334,0.19,47098,48,8.99,3,Personal,Yes,0,Rejected,Low
+480,57,Female,Divorced,High School,Unemployed,18,95033,608,0.36,42679,36,9.56,2,Other,Yes,4,Rejected,Low
+481,42,Male,Single,PhD,Unemployed,19,127411,837,0.52,38560,60,10.87,1,Personal,No,5,Approved,Low
+482,49,Female,Widowed,PhD,Unemployed,34,118239,313,0.14,19195,60,14.52,3,Business,Yes,1,Approved,Low
+483,34,Male,Married,Bachelor,Employed,1,64041,673,0.45,20762,12,10.03,3,Personal,No,1,Approved,Medium
+484,48,Female,Single,PhD,Retired,29,51954,727,0.43,46294,48,9.49,1,Personal,Yes,5,Approved,Medium
+485,25,Male,Single,Bachelor,Self-employed,33,28002,532,0.54,20898,48,2.68,1,Home,Yes,2,Approved,Low
+486,67,Female,Divorced,Master,Unemployed,21,89783,739,0.22,26577,12,3.51,0,Education,No,5,Rejected,Low
+487,69,Female,Divorced,Bachelor,Self-employed,2,127524,801,0.33,6214,60,9.71,4,Education,No,1,Approved,High
+488,50,Female,Married,High School,Self-employed,5,107234,574,0.56,25803,24,14.2,3,Education,Yes,3,Rejected,Medium
+489,66,Female,Single,Bachelor,Unemployed,14,144857,375,0.43,28698,72,13.33,3,Car,Yes,4,Approved,Low
+490,25,Female,Single,High School,Retired,26,39738,738,0.29,37980,24,14.78,1,Home,No,5,Rejected,Medium
+491,32,Male,Divorced,Bachelor,Unemployed,9,30703,588,0.17,6658,60,9.1,1,Other,No,2,Rejected,Medium
+492,36,Female,Single,PhD,Self-employed,8,133776,839,0.23,17270,48,12.35,4,Other,Yes,3,Approved,Medium
+493,46,Female,Single,Master,Unemployed,32,69422,552,0.39,42792,24,13.01,1,Other,No,5,Approved,Low
+494,46,Female,Single,High School,Self-employed,31,103106,425,0.46,27301,36,10.6,2,Education,Yes,3,Rejected,Low
+495,68,Male,Divorced,Bachelor,Self-employed,5,81899,476,0.16,10141,36,6.73,2,Education,Yes,5,Rejected,Low
+496,41,Female,Married,Bachelor,Unemployed,35,32392,336,0.4,43756,12,8.37,2,Home,Yes,3,Approved,High
+497,59,Male,Widowed,Bachelor,Employed,1,64724,709,0.38,18777,60,13.22,2,Personal,No,0,Rejected,Medium
+498,56,Female,Married,PhD,Unemployed,28,52299,426,0.36,43346,60,6.23,4,Education,Yes,3,Rejected,Low
+499,53,Female,Widowed,PhD,Employed,3,35641,782,0.45,34441,24,14.05,3,Other,Yes,0,Rejected,High
+500,50,Male,Single,High School,Self-employed,0,99534,467,0.52,33469,48,5.37,2,Personal,No,1,Rejected,High
+501,57,Female,Married,High School,Self-employed,18,26305,593,0.26,8845,60,11.87,1,Education,No,0,Rejected,High
+502,43,Male,Widowed,PhD,Employed,25,118262,642,0.54,49650,24,10.38,2,Business,No,3,Rejected,Medium
+503,30,Male,Divorced,High School,Self-employed,24,38782,609,0.18,28290,24,11.87,4,Car,Yes,4,Approved,High
+504,25,Female,Divorced,Master,Employed,9,98257,827,0.19,35699,72,7.97,1,Education,No,4,Approved,Low
+505,56,Male,Married,Master,Employed,14,125299,839,0.23,49252,72,14.16,2,Business,No,1,Approved,Medium
+506,54,Female,Married,PhD,Self-employed,21,97963,718,0.16,38146,60,10.41,3,Home,Yes,3,Approved,Medium
+507,51,Female,Single,High School,Retired,20,132086,743,0.22,8293,24,6.1,1,Business,Yes,0,Rejected,Low
+508,30,Male,Married,Bachelor,Employed,21,141987,535,0.15,49398,12,10.48,1,Home,Yes,4,Approved,Low
+509,39,Male,Single,Master,Unemployed,35,40566,738,0.51,21608,12,6.09,3,Education,Yes,5,Rejected,High
+510,52,Male,Single,PhD,Unemployed,33,144591,513,0.17,5737,72,6.17,1,Home,No,2,Rejected,Low
+511,21,Male,Divorced,High School,Self-employed,29,87766,384,0.47,21619,60,7.49,2,Business,Yes,3,Approved,Medium
+512,25,Female,Divorced,PhD,Retired,24,26511,384,0.12,17470,48,13.16,1,Car,No,5,Approved,Low
+513,65,Female,Widowed,Bachelor,Self-employed,27,134816,788,0.57,27372,12,8.75,2,Personal,Yes,5,Rejected,Low
+514,24,Male,Divorced,Master,Retired,0,127765,364,0.46,21117,12,10.99,3,Personal,Yes,3,Approved,Low
+515,36,Female,Divorced,PhD,Employed,3,138360,363,0.1,19779,72,7.4,0,Car,No,2,Approved,Low
+516,44,Female,Married,PhD,Employed,6,46177,642,0.48,34294,72,5.8,3,Other,No,4,Rejected,Medium
+517,36,Female,Divorced,PhD,Employed,8,24765,651,0.36,26630,60,14.43,2,Personal,No,2,Rejected,Low
+518,22,Female,Widowed,Bachelor,Employed,35,40354,457,0.49,45039,72,10.04,4,Education,Yes,1,Rejected,Low
+519,69,Male,Married,PhD,Unemployed,18,43929,790,0.36,17178,36,14.17,3,Other,Yes,0,Rejected,Low
+520,48,Male,Widowed,Bachelor,Unemployed,0,48820,762,0.42,24935,24,5.04,4,Education,No,0,Rejected,Low
+521,52,Female,Divorced,Bachelor,Self-employed,9,131576,524,0.49,27784,12,4.34,4,Business,No,5,Rejected,Low
+522,47,Male,Widowed,Bachelor,Retired,35,49523,612,0.3,28027,36,13.2,2,Business,Yes,4,Approved,Medium
+523,40,Male,Married,Master,Employed,8,91088,765,0.1,36008,48,11.01,2,Other,No,2,Approved,Low
+524,44,Male,Single,Master,Employed,31,86163,387,0.52,6823,36,4.83,0,Other,No,5,Approved,Low
+525,32,Female,Widowed,PhD,Retired,31,97525,602,0.29,11852,60,5.87,1,Other,Yes,3,Rejected,Low
+526,55,Female,Widowed,PhD,Retired,5,33780,734,0.35,18072,48,12.51,3,Other,No,5,Rejected,Low
+527,53,Female,Married,Master,Self-employed,37,26589,434,0.1,16133,48,8.17,2,Home,Yes,3,Approved,Low
+528,53,Male,Married,High School,Retired,16,54812,349,0.35,20111,72,10.88,3,Other,Yes,3,Approved,Low
+529,63,Female,Widowed,Master,Employed,9,113664,731,0.59,37312,36,6.48,4,Other,Yes,1,Approved,Medium
+530,57,Female,Divorced,Bachelor,Employed,26,65939,639,0.24,29161,60,7.27,1,Business,No,1,Rejected,High
+531,32,Male,Widowed,Master,Employed,34,71493,646,0.3,44287,12,14.88,0,Education,No,3,Approved,Medium
+532,23,Female,Married,Bachelor,Employed,20,124188,646,0.44,6777,72,5.6,3,Business,No,4,Approved,Low
+533,21,Female,Single,PhD,Employed,24,113326,544,0.51,29014,36,8.83,1,Personal,No,1,Approved,Low
+534,53,Male,Single,High School,Self-employed,27,60953,408,0.31,19772,12,13.06,0,Home,Yes,1,Rejected,Low
+535,60,Male,Divorced,PhD,Employed,14,85785,832,0.25,49627,36,5.49,3,Home,Yes,0,Approved,Medium
+536,30,Male,Widowed,Bachelor,Self-employed,3,39309,389,0.57,23161,72,7.69,1,Education,No,5,Approved,High
+537,63,Female,Single,Bachelor,Employed,28,74195,595,0.44,47264,12,10.19,2,Other,No,0,Rejected,Low
+538,64,Female,Widowed,Bachelor,Unemployed,8,135662,411,0.16,12490,72,8.51,3,Business,No,4,Rejected,Low
+539,49,Female,Married,High School,Unemployed,26,45901,476,0.13,46661,36,8.24,1,Personal,No,1,Rejected,Medium
+540,33,Male,Single,Master,Unemployed,25,43576,642,0.34,29502,48,7.03,0,Business,Yes,1,Rejected,Medium
+541,32,Male,Divorced,PhD,Unemployed,18,51508,400,0.21,40757,24,9.83,1,Other,No,2,Rejected,Medium
+542,51,Female,Married,PhD,Self-employed,27,94711,700,0.23,46111,48,10.3,2,Other,Yes,4,Approved,Medium
+543,66,Female,Divorced,Master,Self-employed,16,45464,327,0.54,37737,72,10.67,3,Car,No,5,Approved,High
+544,22,Male,Married,PhD,Retired,19,80281,836,0.14,22709,72,3.38,3,Business,No,5,Rejected,Low
+545,55,Male,Single,High School,Employed,39,36260,357,0.46,49682,72,10.39,3,Education,No,5,Rejected,High
+546,43,Male,Divorced,PhD,Unemployed,38,144997,797,0.24,13998,12,14.42,2,Business,Yes,4,Rejected,High
+547,37,Male,Divorced,Bachelor,Self-employed,22,55440,596,0.48,33906,60,9.26,0,Home,No,2,Rejected,Medium
+548,46,Female,Married,Master,Employed,31,115082,433,0.46,40490,72,11.44,3,Personal,Yes,2,Approved,Low
+549,28,Male,Divorced,High School,Employed,32,125583,630,0.1,9656,48,9.46,0,Education,Yes,0,Approved,Low
+550,49,Female,Married,Master,Self-employed,4,76683,548,0.35,41901,24,13.18,1,Car,No,4,Rejected,Low
+551,46,Female,Married,High School,Unemployed,33,144206,849,0.17,30735,72,14.12,0,Personal,Yes,4,Rejected,Low
+552,30,Female,Married,Bachelor,Retired,39,61430,374,0.53,34092,72,4.8,0,Personal,Yes,2,Rejected,Medium
+553,46,Male,Married,Master,Employed,10,21987,467,0.54,6242,72,7.96,3,Home,Yes,3,Rejected,Low
+554,54,Male,Single,PhD,Retired,2,134778,802,0.31,46307,12,7.4,4,Home,No,3,Approved,Low
+555,61,Male,Married,High School,Unemployed,32,45105,654,0.32,6831,72,7.57,4,Home,Yes,0,Rejected,Medium
+556,27,Male,Widowed,Master,Unemployed,10,98484,524,0.25,33511,48,4.07,2,Education,Yes,3,Rejected,Low
+557,24,Female,Divorced,PhD,Retired,15,138747,830,0.46,12246,36,12.67,2,Business,No,3,Approved,Low
+558,65,Male,Widowed,Master,Unemployed,17,33026,445,0.28,36467,60,2.95,4,Personal,No,3,Rejected,Low
+559,31,Male,Single,Master,Employed,29,88309,540,0.23,23302,72,9.1,1,Business,Yes,1,Approved,Medium
+560,49,Female,Widowed,Master,Retired,9,65927,643,0.32,8232,12,10.77,3,Business,Yes,0,Rejected,Low
+561,56,Male,Divorced,High School,Unemployed,17,95414,334,0.15,41526,48,5.09,3,Home,Yes,2,Rejected,Medium
+562,45,Female,Widowed,PhD,Retired,37,77535,300,0.47,43765,72,13.82,1,Business,Yes,3,Approved,Low
+563,41,Female,Single,Bachelor,Employed,18,62946,452,0.11,15972,12,12.98,1,Personal,No,5,Rejected,High
+564,56,Female,Married,High School,Unemployed,35,146503,728,0.42,39592,36,8.39,4,Personal,No,1,Approved,Low
+565,30,Female,Widowed,High School,Employed,12,76561,807,0.19,15683,24,7.64,2,Other,Yes,3,Approved,Low
+566,57,Female,Single,High School,Unemployed,2,30377,425,0.22,28664,72,5.46,1,Car,No,1,Approved,Low
+567,29,Female,Single,Bachelor,Self-employed,9,73592,790,0.42,41828,48,11.62,2,Education,Yes,0,Rejected,Low
+568,44,Female,Divorced,PhD,Unemployed,37,27347,781,0.6,38172,12,4.15,0,Business,No,5,Rejected,Low
+569,55,Female,Divorced,PhD,Retired,0,53776,644,0.49,23105,12,11,3,Education,No,5,Approved,Low
+570,69,Male,Widowed,PhD,Unemployed,26,23783,520,0.21,26700,72,13.03,4,Education,Yes,5,Rejected,Low
+571,55,Male,Married,Master,Employed,7,75798,324,0.19,16017,12,5.36,3,Education,Yes,3,Rejected,Low
+572,68,Male,Single,Master,Employed,16,24298,827,0.53,41613,24,13.33,4,Other,Yes,1,Rejected,Low
+573,56,Male,Widowed,Master,Unemployed,8,90204,481,0.32,25594,12,2.92,0,Education,Yes,5,Approved,Low
+574,38,Female,Single,Bachelor,Retired,5,106207,798,0.17,16384,60,13.91,3,Other,No,4,Approved,Medium
+575,69,Male,Single,Master,Self-employed,24,120356,341,0.53,35348,60,3.98,0,Personal,No,4,Rejected,High
+576,59,Female,Married,Bachelor,Retired,38,75161,780,0.51,21448,12,10.57,4,Business,Yes,1,Approved,Low
+577,52,Male,Married,PhD,Self-employed,27,80652,738,0.59,14491,72,5.63,1,Other,No,3,Rejected,Low
+578,44,Male,Widowed,Master,Employed,32,54484,701,0.55,18112,60,12.96,3,Car,No,3,Rejected,High
+579,43,Male,Married,Master,Retired,36,118614,845,0.53,36021,48,8.9,0,Education,Yes,0,Rejected,Low
+580,52,Female,Married,High School,Self-employed,8,149572,644,0.13,49553,60,4.19,3,Car,Yes,0,Approved,High
+581,57,Male,Widowed,Bachelor,Unemployed,17,132695,344,0.15,5968,12,9.64,3,Personal,No,5,Approved,Low
+582,32,Female,Married,PhD,Employed,20,40922,320,0.38,5368,72,7.6,3,Personal,Yes,2,Rejected,Medium
+583,69,Female,Divorced,High School,Unemployed,1,54028,369,0.37,13424,36,10.77,2,Home,Yes,0,Approved,Low
+584,33,Male,Single,High School,Employed,37,131461,347,0.33,40010,72,13.52,0,Education,No,3,Rejected,High
+585,43,Male,Single,PhD,Retired,39,40316,790,0.3,40851,72,7.62,0,Home,No,2,Approved,Low
+586,45,Male,Single,High School,Retired,35,96996,586,0.32,30496,72,6.12,3,Car,Yes,0,Approved,Medium
+587,55,Female,Single,Bachelor,Employed,36,36968,309,0.38,35936,48,2.68,1,Business,No,1,Approved,Low
+588,61,Male,Widowed,Bachelor,Employed,14,50266,841,0.1,18322,24,9.69,3,Home,Yes,4,Rejected,Low
+589,50,Female,Single,Master,Employed,27,145679,573,0.23,6469,12,7.53,2,Personal,Yes,0,Rejected,Medium
+590,37,Female,Single,High School,Retired,17,115745,680,0.36,42493,24,7.18,4,Education,No,0,Rejected,Low
+591,69,Male,Single,Master,Self-employed,33,44000,628,0.46,9259,36,4.79,2,Car,No,1,Approved,High
+592,40,Male,Single,High School,Unemployed,21,143239,778,0.19,41390,24,7.88,1,Other,Yes,3,Rejected,Low
+593,68,Female,Divorced,Bachelor,Unemployed,10,34011,314,0.37,15292,12,14.81,3,Personal,Yes,5,Rejected,Medium
+594,45,Female,Single,Bachelor,Retired,12,22866,815,0.46,31841,12,6.22,0,Other,Yes,1,Rejected,Low
+595,42,Female,Divorced,Bachelor,Unemployed,3,132669,490,0.32,33365,36,10,3,Business,No,5,Rejected,High
+596,33,Male,Widowed,High School,Employed,21,25898,467,0.11,22207,12,12.21,1,Education,Yes,0,Approved,High
+597,39,Female,Married,Bachelor,Self-employed,6,38395,820,0.32,41199,36,11.86,0,Business,No,3,Approved,Low
+598,69,Male,Single,High School,Unemployed,23,59019,436,0.25,27912,36,6.61,2,Business,Yes,2,Rejected,Medium
+599,56,Female,Married,Master,Self-employed,3,123243,453,0.56,41919,12,10.14,4,Education,No,0,Approved,Medium
+600,32,Female,Married,High School,Employed,27,24006,687,0.16,41981,60,13.39,4,Education,Yes,1,Approved,Low
+601,61,Male,Widowed,Master,Unemployed,14,54393,508,0.43,20235,36,2.69,3,Other,No,2,Approved,Medium
+602,39,Female,Married,High School,Retired,0,30956,571,0.13,46757,12,7.95,2,Business,Yes,4,Approved,Low
+603,32,Male,Divorced,Master,Self-employed,2,70042,442,0.32,38547,60,5.3,1,Car,Yes,2,Approved,Medium
+604,29,Male,Married,Bachelor,Employed,13,116199,368,0.38,48810,36,7.36,4,Other,Yes,1,Rejected,Low
+605,27,Female,Married,Master,Self-employed,37,26078,546,0.25,24276,60,7.7,2,Education,Yes,2,Approved,Low
+606,48,Male,Married,Bachelor,Unemployed,0,49631,560,0.33,36923,48,11.83,3,Personal,No,1,Rejected,Low
+607,34,Male,Single,Bachelor,Unemployed,37,115676,378,0.18,10534,72,3.67,0,Other,No,0,Rejected,Low
+608,51,Female,Single,Master,Retired,37,141724,824,0.25,31469,48,8.91,3,Home,No,3,Rejected,Medium
+609,39,Male,Divorced,High School,Employed,20,82901,629,0.41,41074,60,9.55,3,Car,No,4,Approved,High
+610,67,Male,Divorced,High School,Employed,28,127227,488,0.25,40670,36,8.68,2,Other,No,3,Approved,Low
+611,36,Male,Single,PhD,Retired,4,89497,394,0.55,37563,12,11.65,4,Education,Yes,3,Approved,Low
+612,25,Female,Divorced,High School,Retired,9,114813,307,0.41,41486,24,7.3,2,Education,No,3,Approved,Medium
+613,55,Male,Single,PhD,Employed,27,137192,366,0.32,5021,12,14.31,0,Car,No,1,Rejected,Low
+614,32,Female,Widowed,High School,Self-employed,20,61574,795,0.12,39268,24,8.52,2,Home,No,1,Rejected,Low
+615,45,Female,Married,High School,Self-employed,6,138494,490,0.35,46802,24,9.64,1,Other,No,4,Rejected,Low
+616,41,Male,Married,Bachelor,Retired,2,51417,665,0.48,20799,36,12.82,3,Other,Yes,1,Approved,Low
+617,56,Male,Divorced,PhD,Self-employed,19,108020,820,0.23,31336,60,5.94,4,Business,Yes,5,Rejected,Low
+618,43,Male,Single,High School,Employed,18,103639,416,0.5,8641,12,3.44,0,Personal,Yes,1,Rejected,Medium
+619,36,Female,Single,PhD,Unemployed,34,85006,566,0.23,26596,60,11.35,3,Education,Yes,1,Rejected,Low
+620,59,Male,Divorced,Bachelor,Unemployed,3,114881,784,0.51,37959,48,8.54,2,Other,No,1,Approved,Medium
+621,65,Male,Single,Bachelor,Self-employed,4,131862,808,0.14,18306,36,13.71,1,Other,No,0,Rejected,Low
+622,62,Male,Widowed,PhD,Retired,0,59454,597,0.53,13587,36,14.78,2,Other,Yes,4,Rejected,Low
+623,59,Male,Married,Bachelor,Retired,3,21587,463,0.35,36359,48,7.49,3,Home,Yes,5,Approved,Medium
+624,34,Male,Divorced,Master,Retired,11,141688,675,0.25,26498,12,7.69,0,Personal,No,1,Rejected,Low
+625,51,Female,Divorced,Master,Retired,26,128107,567,0.23,9662,72,7.6,4,Other,No,4,Approved,Low
+626,25,Female,Single,Bachelor,Retired,22,135584,848,0.32,42094,48,6.56,3,Car,Yes,2,Rejected,Medium
+627,55,Male,Divorced,Master,Self-employed,24,74710,373,0.6,46833,12,12.27,0,Education,Yes,0,Approved,Low
+628,43,Male,Widowed,High School,Unemployed,20,143157,807,0.21,32197,24,11.99,3,Business,Yes,1,Approved,Medium
+629,49,Male,Single,PhD,Unemployed,23,106567,372,0.15,25719,36,8.48,1,Car,Yes,5,Approved,Low
+630,63,Male,Single,High School,Self-employed,24,111748,607,0.39,29665,12,3.06,2,Education,No,0,Rejected,Medium
+631,31,Female,Single,PhD,Retired,31,95886,498,0.34,48239,60,6.37,4,Home,No,5,Rejected,Low
+632,38,Male,Single,Bachelor,Self-employed,31,38816,429,0.36,30032,60,6.15,0,Personal,No,0,Approved,Low
+633,67,Female,Widowed,High School,Unemployed,4,105824,786,0.43,17641,36,12.64,4,Personal,Yes,2,Approved,High
+634,32,Female,Single,Bachelor,Employed,35,49432,450,0.23,46964,48,3.59,4,Education,No,4,Approved,Medium
+635,29,Male,Divorced,Bachelor,Self-employed,38,129758,505,0.56,35028,72,12.57,4,Car,No,0,Approved,Low
+636,30,Female,Widowed,PhD,Retired,15,68617,478,0.32,20651,48,10.86,0,Business,Yes,3,Approved,Low
+637,64,Female,Married,PhD,Unemployed,32,92373,496,0.16,13536,12,11.66,0,Home,Yes,2,Approved,Low
+638,37,Female,Married,PhD,Unemployed,20,54217,388,0.47,11273,48,7.9,4,Education,Yes,3,Approved,Medium
+639,58,Female,Divorced,High School,Unemployed,8,40884,733,0.42,11284,36,11,2,Home,Yes,2,Approved,Medium
+640,27,Male,Divorced,Master,Unemployed,5,25454,482,0.26,30692,12,10.11,3,Personal,Yes,3,Approved,Medium
+641,66,Male,Widowed,PhD,Retired,34,94960,508,0.41,13817,24,12.11,4,Other,Yes,3,Approved,Low
+642,33,Female,Married,PhD,Employed,38,122421,792,0.21,33955,48,8.08,1,Other,No,5,Approved,Medium
+643,60,Male,Married,High School,Unemployed,21,127173,429,0.32,31555,48,8.41,4,Business,No,0,Approved,Low
+644,62,Male,Married,PhD,Self-employed,4,63618,312,0.55,25378,72,10.54,0,Home,No,0,Rejected,Low
+645,29,Male,Married,High School,Employed,22,103948,405,0.17,46182,12,3.85,3,Education,No,2,Approved,Low
+646,47,Male,Married,Bachelor,Unemployed,16,82671,674,0.29,22127,60,7.95,1,Business,No,4,Rejected,High
+647,22,Male,Single,PhD,Employed,11,67111,398,0.51,22952,48,14.65,3,Car,No,5,Rejected,Medium
+648,25,Female,Divorced,PhD,Self-employed,22,59613,491,0.58,16539,36,2.97,3,Other,Yes,0,Rejected,Low
+649,49,Male,Single,Bachelor,Unemployed,15,105678,624,0.33,19692,48,6.45,1,Education,Yes,0,Approved,Medium
+650,57,Male,Married,Bachelor,Self-employed,2,140592,766,0.35,23120,72,6.43,4,Home,Yes,5,Rejected,High
+651,58,Male,Widowed,Bachelor,Retired,29,122928,666,0.39,18334,24,10.42,4,Business,No,1,Approved,Low
+652,39,Male,Widowed,PhD,Unemployed,21,144917,617,0.57,33615,72,3.82,4,Education,No,5,Rejected,Low
+653,28,Female,Married,Master,Unemployed,8,79993,443,0.53,12903,48,10.36,2,Business,Yes,0,Approved,High
+654,68,Female,Married,Master,Unemployed,28,148652,683,0.19,33527,60,3.69,4,Business,Yes,4,Approved,Medium
+655,65,Female,Widowed,Master,Unemployed,36,28848,515,0.32,20629,48,3.69,1,Business,Yes,1,Rejected,Low
+656,21,Female,Single,PhD,Retired,22,134853,660,0.33,22740,12,11.6,2,Home,Yes,3,Rejected,Low
+657,42,Male,Single,Bachelor,Unemployed,12,98672,623,0.49,38782,48,6.55,4,Education,Yes,5,Approved,Low
+658,37,Female,Married,PhD,Employed,31,139279,314,0.4,31708,60,14.72,2,Personal,No,3,Rejected,Low
+659,27,Male,Single,Bachelor,Unemployed,22,86125,516,0.43,15860,12,2.97,1,Personal,No,1,Approved,High
+660,45,Male,Widowed,PhD,Retired,16,106444,791,0.6,22438,36,8.06,4,Home,No,1,Approved,Low
+661,65,Male,Single,PhD,Unemployed,39,137509,846,0.14,6764,12,3.91,0,Home,Yes,1,Approved,Medium
+662,24,Male,Married,Bachelor,Employed,20,81602,482,0.21,11009,72,6.89,1,Other,No,2,Rejected,Low
+663,56,Male,Widowed,Master,Retired,1,92045,569,0.3,25842,24,14.98,3,Business,Yes,5,Approved,Low
+664,26,Female,Single,Bachelor,Retired,36,125997,766,0.27,47372,72,13.61,3,Education,No,4,Approved,Low
+665,51,Female,Divorced,High School,Employed,5,62222,818,0.11,38435,12,3.1,1,Education,Yes,4,Approved,Medium
+666,39,Female,Widowed,High School,Employed,17,69223,841,0.15,8370,36,9.54,3,Car,Yes,3,Approved,Low
+667,64,Female,Widowed,Bachelor,Employed,29,130012,766,0.44,43744,48,10.6,1,Car,No,3,Rejected,Medium
+668,59,Male,Divorced,PhD,Employed,21,131246,604,0.54,25454,12,5.12,0,Personal,No,3,Rejected,Low
+669,47,Female,Divorced,High School,Employed,32,85333,443,0.36,46381,72,4.31,1,Car,No,5,Rejected,Low
+670,30,Male,Widowed,High School,Retired,29,72732,410,0.37,43367,12,13.8,4,Car,No,0,Rejected,Low
+671,46,Female,Divorced,PhD,Retired,16,142650,531,0.23,8650,12,14.61,4,Personal,No,3,Approved,Low
+672,39,Male,Married,PhD,Unemployed,31,69420,799,0.48,30708,12,14.9,2,Other,Yes,1,Approved,Medium
+673,59,Male,Married,Master,Unemployed,13,95504,572,0.48,47662,36,12.37,3,Personal,No,3,Approved,Low
+674,23,Female,Married,PhD,Self-employed,9,22462,472,0.39,8190,60,10.79,3,Car,No,1,Approved,Medium
+675,65,Male,Widowed,Bachelor,Unemployed,35,29460,306,0.21,13789,60,6.82,1,Education,Yes,2,Approved,Low
+676,33,Male,Divorced,Bachelor,Unemployed,33,119319,454,0.15,37125,12,4.64,3,Car,No,0,Approved,Low
+677,48,Female,Divorced,Master,Employed,8,145602,821,0.13,38159,36,3.49,4,Business,Yes,0,Rejected,Low
+678,40,Male,Single,High School,Employed,27,29275,845,0.4,22459,36,11.17,0,Business,No,5,Approved,Low
+679,48,Female,Single,High School,Unemployed,10,114213,847,0.51,40418,12,12.31,1,Business,No,5,Approved,Medium
+680,28,Female,Divorced,PhD,Self-employed,13,33269,817,0.53,23768,72,12.83,3,Other,Yes,4,Approved,Medium
+681,61,Female,Divorced,Bachelor,Employed,38,149593,514,0.33,20563,72,13.92,4,Home,No,2,Rejected,Low
+682,59,Male,Divorced,High School,Unemployed,18,142672,433,0.49,32885,24,13.5,2,Business,No,5,Approved,Low
+683,21,Male,Widowed,Master,Unemployed,14,85942,584,0.57,26885,12,15,3,Education,No,1,Approved,Medium
+684,23,Male,Divorced,Master,Retired,27,92920,425,0.24,11895,24,5.55,0,Other,No,2,Approved,Medium
+685,33,Female,Single,Bachelor,Self-employed,23,140737,738,0.3,28958,72,12.04,0,Home,Yes,0,Rejected,Medium
+686,48,Male,Widowed,Master,Retired,7,42553,451,0.57,6531,72,9.83,3,Home,Yes,1,Approved,Low
+687,69,Female,Divorced,Master,Self-employed,8,44366,630,0.27,10481,12,5.77,3,Business,No,2,Approved,Low
+688,45,Female,Single,Bachelor,Employed,32,64036,837,0.56,28932,24,14.77,4,Car,No,0,Rejected,High
+689,53,Male,Widowed,PhD,Self-employed,32,37369,682,0.59,26360,24,13.72,3,Personal,Yes,5,Approved,Medium
+690,58,Female,Divorced,PhD,Unemployed,18,31795,414,0.43,48642,12,4.11,2,Car,Yes,1,Rejected,Low
+691,26,Male,Divorced,Master,Unemployed,2,90021,781,0.51,29829,24,2.83,4,Car,No,1,Approved,Medium
+692,64,Male,Divorced,PhD,Self-employed,9,127205,583,0.47,24932,48,11.1,1,Home,Yes,0,Rejected,Medium
+693,65,Male,Widowed,PhD,Self-employed,39,88154,374,0.45,43931,72,10.05,2,Home,Yes,1,Approved,Low
+694,52,Male,Single,Master,Self-employed,0,50143,465,0.25,43032,60,14.2,4,Other,Yes,5,Approved,Low
+695,65,Male,Single,PhD,Retired,28,49425,488,0.13,20890,36,5.43,4,Other,Yes,5,Rejected,Low
+696,67,Female,Married,Master,Self-employed,33,108209,377,0.27,23807,24,3.55,0,Home,No,5,Approved,Low
+697,41,Female,Divorced,High School,Employed,12,95139,320,0.43,16767,24,5.74,4,Education,Yes,0,Approved,Medium
+698,36,Female,Married,Bachelor,Retired,0,125232,483,0.15,13071,36,2.74,2,Education,No,3,Rejected,Low
+699,41,Male,Married,Bachelor,Retired,33,25368,521,0.11,31149,24,2.95,3,Personal,No,3,Approved,Medium
+700,31,Male,Single,PhD,Self-employed,28,24621,627,0.17,20540,36,13.94,2,Home,Yes,1,Rejected,High
+701,57,Male,Widowed,PhD,Employed,12,78829,478,0.46,40676,12,6.9,1,Business,No,5,Approved,Low
+702,56,Female,Widowed,PhD,Retired,28,149036,411,0.59,9712,48,7.64,4,Other,No,1,Rejected,Low
+703,55,Male,Single,Bachelor,Unemployed,38,80294,358,0.59,31201,48,2.73,4,Home,Yes,0,Approved,Medium
+704,39,Female,Widowed,High School,Retired,23,34719,626,0.35,49958,72,5.88,4,Education,Yes,1,Approved,Medium
+705,40,Female,Married,High School,Self-employed,25,49227,490,0.53,24899,60,12.56,4,Home,Yes,4,Rejected,Medium
+706,38,Male,Divorced,Bachelor,Employed,16,129430,499,0.47,24787,24,10.19,0,Education,No,3,Approved,Low
+707,67,Male,Single,High School,Self-employed,6,27566,611,0.35,25982,60,11.92,0,Home,No,1,Rejected,Low
+708,61,Female,Divorced,Bachelor,Unemployed,12,32306,334,0.39,27606,12,8.09,3,Business,No,1,Rejected,Low
+709,69,Male,Widowed,High School,Unemployed,4,73822,678,0.17,15150,48,6.37,4,Personal,No,2,Rejected,High
+710,34,Female,Divorced,Master,Unemployed,25,44042,686,0.57,25393,12,8.54,1,Business,Yes,1,Approved,Low
+711,35,Male,Widowed,Master,Self-employed,2,35086,536,0.28,42259,12,6.54,3,Education,No,4,Approved,High
+712,51,Male,Widowed,Bachelor,Retired,6,37387,818,0.32,32750,24,12.99,4,Other,Yes,3,Approved,Low
+713,21,Female,Married,High School,Self-employed,38,47042,582,0.44,13593,12,6.22,0,Other,Yes,2,Rejected,High
+714,23,Male,Widowed,PhD,Employed,0,109424,300,0.27,22358,48,10.75,1,Car,Yes,0,Rejected,Medium
+715,36,Female,Married,High School,Retired,16,71618,763,0.23,21607,60,4.21,3,Business,Yes,0,Rejected,Low
+716,43,Male,Married,Master,Unemployed,24,112050,529,0.42,42381,48,11.09,1,Home,No,3,Approved,Medium
+717,31,Female,Married,Master,Self-employed,2,38323,471,0.11,29811,24,13.92,4,Personal,Yes,0,Rejected,Low
+718,32,Female,Single,High School,Unemployed,14,38019,386,0.46,33074,48,10.11,2,Home,No,4,Approved,Low
+719,30,Male,Single,High School,Unemployed,28,95426,422,0.36,25595,36,9.5,1,Home,Yes,1,Approved,Low
+720,52,Female,Widowed,PhD,Employed,31,60863,597,0.4,49194,60,14.51,1,Business,Yes,3,Approved,Low
+721,36,Male,Married,PhD,Retired,25,140953,783,0.42,31853,36,10.34,0,Personal,Yes,2,Approved,Low
+722,28,Male,Single,High School,Employed,15,131023,464,0.36,13183,36,5.74,4,Car,No,1,Approved,Medium
+723,58,Male,Married,High School,Employed,24,30283,682,0.39,25661,72,6.15,1,Home,Yes,0,Approved,Medium
+724,32,Female,Divorced,High School,Employed,27,38279,508,0.44,46169,24,11.32,4,Personal,Yes,0,Approved,Low
+725,44,Female,Divorced,High School,Unemployed,8,66999,731,0.48,41495,12,11.69,0,Car,Yes,2,Approved,Medium
+726,48,Male,Divorced,Bachelor,Employed,0,82780,688,0.46,18703,36,6.29,4,Home,Yes,4,Rejected,Medium
+727,28,Male,Widowed,High School,Employed,28,42908,523,0.53,35815,48,6.82,0,Personal,No,2,Approved,High
+728,48,Female,Married,PhD,Retired,21,81584,302,0.19,34565,12,14.89,0,Business,No,3,Approved,Medium
+729,56,Male,Divorced,Master,Retired,15,146278,671,0.3,27942,48,3.77,3,Other,Yes,2,Rejected,Low
+730,46,Male,Single,Bachelor,Employed,6,133002,745,0.57,47986,48,7.56,4,Other,Yes,0,Rejected,Low
+731,28,Female,Divorced,High School,Retired,13,70225,415,0.3,38161,12,3.28,2,Home,No,4,Rejected,Medium
+732,48,Male,Divorced,Master,Retired,28,57952,569,0.16,46803,12,12.76,3,Home,No,4,Rejected,Low
+733,48,Female,Divorced,Bachelor,Employed,18,120706,746,0.36,14716,48,3.65,0,Personal,No,5,Approved,Low
+734,57,Male,Widowed,Master,Unemployed,18,57663,667,0.15,46563,24,10.93,2,Other,Yes,2,Rejected,Low
+735,61,Female,Single,High School,Employed,1,142019,552,0.2,38349,60,3.21,1,Home,No,3,Rejected,Low
+736,56,Male,Married,High School,Retired,14,129708,616,0.6,47899,72,10.91,1,Car,Yes,0,Rejected,Low
+737,47,Male,Single,PhD,Unemployed,2,81381,714,0.37,5132,60,13.04,3,Home,No,1,Rejected,Low
+738,37,Female,Married,High School,Self-employed,10,67929,394,0.24,8385,24,7.49,2,Other,No,4,Approved,Low
+739,29,Male,Widowed,High School,Unemployed,29,29343,323,0.6,41538,72,9.03,4,Education,Yes,2,Rejected,Medium
+740,53,Female,Widowed,Bachelor,Retired,39,96173,349,0.58,40036,12,7.52,2,Other,No,5,Rejected,Low
+741,40,Male,Widowed,PhD,Unemployed,17,120260,801,0.32,38743,72,6.26,3,Car,Yes,3,Rejected,Low
+742,33,Female,Widowed,Bachelor,Employed,1,59791,797,0.23,45373,48,12.54,4,Personal,No,3,Rejected,Low
+743,48,Female,Married,Master,Self-employed,31,49134,634,0.52,12213,60,5.9,4,Car,Yes,0,Approved,Low
+744,68,Female,Divorced,High School,Self-employed,7,132366,378,0.46,49223,72,11.54,1,Education,No,4,Rejected,Low
+745,49,Female,Married,Master,Self-employed,21,67101,326,0.44,31119,48,5.08,2,Education,No,0,Rejected,Low
+746,33,Male,Single,Bachelor,Retired,5,89443,570,0.55,7835,24,5.62,4,Home,Yes,5,Rejected,Low
+747,66,Male,Widowed,High School,Retired,11,119111,546,0.44,7738,72,6.71,3,Home,Yes,1,Approved,Medium
+748,55,Female,Widowed,High School,Self-employed,39,77530,686,0.24,47317,48,9.86,1,Other,Yes,1,Rejected,Low
+749,26,Female,Single,Bachelor,Unemployed,35,66799,660,0.45,9134,24,8.18,4,Business,Yes,1,Rejected,Low
+750,38,Female,Married,Bachelor,Self-employed,14,24827,787,0.25,30892,12,11.81,2,Car,No,3,Approved,Low
+751,25,Male,Divorced,Bachelor,Unemployed,27,116143,651,0.48,44601,24,5.17,1,Other,No,4,Rejected,Medium
+752,67,Male,Divorced,Bachelor,Unemployed,17,82653,555,0.41,13353,24,2.63,2,Business,No,0,Approved,Medium
+753,45,Male,Single,Bachelor,Retired,1,33699,521,0.14,20690,60,12.21,2,Other,No,0,Approved,Medium
+754,22,Male,Divorced,High School,Unemployed,12,122828,300,0.36,6909,48,12.77,2,Education,No,5,Rejected,Low
+755,30,Female,Married,Bachelor,Self-employed,14,133497,845,0.27,30703,72,3.24,1,Home,No,1,Rejected,Low
+756,50,Female,Married,High School,Retired,19,111419,745,0.26,19496,60,10.14,4,Home,Yes,4,Approved,Low
+757,65,Female,Single,High School,Employed,28,134527,378,0.4,17062,36,7.23,0,Other,No,4,Approved,Medium
+758,25,Male,Married,Bachelor,Employed,28,136972,535,0.26,14850,24,12.42,4,Home,No,5,Rejected,Low
+759,53,Male,Widowed,Bachelor,Retired,2,25313,633,0.49,32701,36,13.43,1,Personal,Yes,2,Approved,High
+760,21,Male,Single,PhD,Self-employed,18,33598,648,0.14,39731,60,13.14,0,Other,No,4,Approved,Medium
+761,38,Female,Married,High School,Employed,2,131362,397,0.43,10153,48,12.22,0,Education,No,4,Rejected,Medium
+762,52,Female,Single,Bachelor,Employed,13,135445,381,0.5,15481,60,5.86,0,Other,No,0,Approved,Low
+763,67,Male,Divorced,Bachelor,Unemployed,39,48807,801,0.44,38734,48,12.65,3,Other,Yes,5,Approved,Medium
+764,69,Female,Married,Bachelor,Unemployed,3,90423,776,0.35,5889,48,9.17,1,Home,Yes,4,Approved,Low
+765,31,Male,Widowed,PhD,Self-employed,10,89390,849,0.58,24445,12,3.16,3,Education,No,4,Approved,Low
+766,41,Male,Married,PhD,Retired,30,65226,313,0.25,11461,24,8.21,0,Other,Yes,0,Approved,Low
+767,46,Female,Single,Master,Self-employed,31,79550,691,0.11,43934,60,14.28,3,Home,No,4,Approved,Medium
+768,45,Male,Single,High School,Retired,26,100072,646,0.32,33205,48,13.6,3,Car,No,0,Rejected,Low
+769,42,Female,Married,Master,Employed,29,23558,609,0.12,28351,60,3.78,1,Education,No,2,Approved,Low
+770,47,Male,Widowed,Bachelor,Unemployed,1,95308,685,0.58,21006,60,11.8,2,Business,Yes,3,Rejected,Low
+771,69,Female,Widowed,PhD,Self-employed,8,70113,508,0.2,49149,48,12.57,3,Personal,No,0,Rejected,Medium
+772,33,Female,Widowed,PhD,Self-employed,27,72999,656,0.49,15940,72,5.89,3,Business,No,0,Rejected,Medium
+773,53,Female,Single,Master,Retired,30,75878,393,0.49,16258,36,8.4,0,Education,No,4,Rejected,Medium
+774,54,Male,Married,PhD,Retired,33,56343,392,0.21,29485,24,11.39,0,Other,No,0,Rejected,Low
+775,61,Male,Divorced,Bachelor,Self-employed,14,78219,639,0.41,28763,24,7.99,0,Home,No,5,Rejected,Low
+776,55,Female,Single,PhD,Retired,24,55186,744,0.12,45048,72,3.91,4,Education,Yes,1,Rejected,Low
+777,21,Female,Widowed,Master,Self-employed,35,56966,321,0.34,6067,12,11.32,3,Personal,No,1,Rejected,Low
+778,41,Male,Married,Bachelor,Self-employed,7,53769,590,0.11,25607,72,13.9,0,Education,Yes,2,Approved,High
+779,68,Male,Widowed,Master,Self-employed,8,139932,784,0.56,48883,12,10.66,1,Home,No,0,Rejected,Low
+780,26,Male,Divorced,PhD,Employed,36,146264,605,0.59,14018,12,12.17,4,Business,Yes,5,Rejected,Low
+781,48,Female,Widowed,Master,Retired,38,125423,427,0.21,20187,72,6.98,2,Car,No,4,Rejected,Low
+782,37,Male,Widowed,Master,Unemployed,31,73218,572,0.2,42375,24,4.79,3,Business,No,4,Approved,Medium
+783,25,Male,Divorced,High School,Unemployed,16,39229,741,0.48,8985,36,10.53,3,Home,Yes,3,Rejected,Low
+784,51,Female,Married,PhD,Retired,34,95209,802,0.23,48052,24,6.6,1,Home,Yes,2,Approved,Low
+785,25,Male,Single,PhD,Self-employed,36,47877,429,0.55,24563,24,13.25,2,Personal,No,5,Rejected,Medium
+786,58,Male,Married,Master,Unemployed,18,78001,431,0.39,42306,24,4.03,2,Education,Yes,5,Rejected,Low
+787,23,Male,Divorced,High School,Unemployed,28,117137,781,0.28,23608,72,7.92,4,Education,Yes,4,Approved,Medium
+788,43,Female,Widowed,PhD,Retired,6,58084,689,0.52,44139,72,7.46,3,Business,No,3,Rejected,Low
+789,57,Female,Married,Bachelor,Unemployed,27,101780,624,0.35,6726,72,14.23,0,Car,No,4,Approved,Medium
+790,57,Female,Single,Master,Self-employed,8,112892,368,0.56,31582,24,4.41,1,Car,No,3,Approved,Low
+791,30,Female,Divorced,PhD,Retired,27,36806,747,0.56,10791,36,2.62,1,Personal,No,1,Rejected,Low
+792,30,Female,Married,Bachelor,Self-employed,5,108635,827,0.18,13458,12,5.48,1,Home,No,5,Rejected,Medium
+793,39,Female,Single,PhD,Unemployed,28,130177,464,0.1,22221,60,12.75,1,Personal,Yes,1,Approved,Low
+794,37,Female,Divorced,Bachelor,Unemployed,16,57034,787,0.59,25968,12,5.12,0,Education,No,4,Approved,Low
+795,41,Male,Single,Master,Self-employed,15,60317,725,0.55,22070,12,5.51,0,Other,Yes,2,Rejected,Low
+796,34,Male,Divorced,PhD,Employed,22,75468,564,0.13,32937,60,4.12,4,Other,No,0,Rejected,Medium
+797,29,Female,Widowed,PhD,Unemployed,30,39094,641,0.52,46831,24,11.44,3,Other,No,2,Rejected,Low
+798,66,Male,Married,High School,Employed,2,77796,577,0.33,47933,36,3.36,0,Home,Yes,2,Approved,High
+799,21,Male,Single,Master,Unemployed,20,30589,738,0.23,42415,36,6.64,4,Personal,No,0,Rejected,High
+800,65,Female,Divorced,Bachelor,Employed,25,77221,456,0.54,47770,12,6.03,2,Business,Yes,5,Approved,Medium
+801,33,Male,Single,PhD,Employed,35,144855,721,0.2,25802,60,9.44,3,Education,Yes,1,Rejected,Low
+802,24,Male,Single,PhD,Employed,36,21657,550,0.57,48601,48,11.63,0,Other,Yes,1,Approved,Low
+803,21,Male,Married,Bachelor,Self-employed,21,118300,829,0.2,15420,24,9.16,2,Car,No,5,Approved,Medium
+804,69,Male,Widowed,Master,Employed,11,137229,626,0.41,11642,12,14.14,4,Personal,No,0,Rejected,Low
+805,60,Male,Single,High School,Employed,12,59531,396,0.21,24775,36,14.39,0,Education,No,3,Approved,Low
+806,52,Female,Divorced,High School,Employed,10,72227,812,0.37,33754,72,7.02,0,Education,No,2,Approved,Low
+807,54,Female,Divorced,PhD,Unemployed,15,23164,515,0.44,48310,72,12.22,2,Car,No,4,Approved,Low
+808,48,Female,Widowed,Bachelor,Employed,7,113078,431,0.2,9357,60,11.74,0,Car,No,1,Approved,Low
+809,51,Male,Divorced,PhD,Unemployed,39,103973,559,0.36,26263,60,13.66,1,Car,Yes,5,Approved,Low
+810,28,Female,Widowed,Bachelor,Employed,39,61247,424,0.33,18201,12,8.1,0,Other,No,4,Rejected,Medium
+811,59,Male,Divorced,High School,Employed,1,124041,381,0.14,7739,48,9.13,3,Other,No,0,Rejected,Low
+812,46,Male,Married,Master,Self-employed,29,39601,582,0.51,18231,36,7.7,2,Personal,No,4,Approved,Low
+813,54,Male,Single,Bachelor,Unemployed,29,113966,358,0.27,47278,12,13.13,3,Car,No,4,Rejected,Low
+814,23,Male,Married,High School,Employed,11,70599,843,0.39,47495,48,5.37,4,Business,Yes,2,Approved,Low
+815,32,Female,Single,PhD,Unemployed,9,91545,460,0.36,26168,60,5.5,3,Education,Yes,0,Approved,Low
+816,21,Female,Single,Bachelor,Unemployed,10,135295,583,0.36,37624,72,7.16,1,Car,Yes,4,Rejected,Medium
+817,64,Male,Single,Master,Retired,14,24552,405,0.15,15635,24,5.38,1,Education,Yes,1,Approved,High
+818,25,Female,Married,PhD,Self-employed,15,136452,404,0.31,14964,72,9.51,3,Home,Yes,0,Approved,Low
+819,50,Male,Single,PhD,Self-employed,16,29417,738,0.33,32785,36,4.18,4,Home,No,1,Approved,Low
+820,50,Female,Married,High School,Self-employed,25,78579,527,0.47,34510,36,6.5,0,Car,Yes,5,Rejected,Low
+821,37,Female,Widowed,Bachelor,Retired,1,127525,617,0.52,22261,72,13.92,1,Education,Yes,5,Rejected,High
+822,68,Male,Divorced,PhD,Retired,11,88207,763,0.37,24254,72,7.62,3,Home,No,3,Approved,Medium
+823,67,Female,Divorced,Master,Self-employed,25,92055,771,0.14,16392,48,11.85,3,Car,No,5,Approved,Medium
+824,43,Male,Single,Bachelor,Retired,22,122266,355,0.22,17336,12,3.92,3,Education,Yes,4,Approved,Low
+825,35,Female,Married,Master,Retired,17,98270,312,0.18,16939,60,5.59,0,Car,No,0,Approved,High
+826,57,Male,Divorced,PhD,Retired,31,131426,739,0.16,32412,48,12.59,2,Other,No,5,Approved,Low
+827,41,Male,Married,Master,Self-employed,37,137865,317,0.28,21676,24,12.04,4,Education,Yes,1,Rejected,Low
+828,34,Female,Married,High School,Self-employed,2,23722,412,0.21,14843,72,7.33,2,Home,No,4,Rejected,Medium
+829,22,Female,Single,Master,Self-employed,37,90442,528,0.21,30112,24,14.43,4,Car,Yes,5,Rejected,High
+830,31,Male,Divorced,Bachelor,Retired,2,115632,470,0.13,35598,24,13.88,4,Home,Yes,2,Rejected,Low
+831,59,Female,Single,Master,Self-employed,29,60031,594,0.11,40454,48,14.53,3,Car,No,1,Approved,Low
+832,58,Female,Single,Master,Retired,0,99235,488,0.15,38001,60,7.85,1,Personal,Yes,1,Approved,Low
+833,54,Male,Divorced,High School,Employed,29,41438,725,0.19,32228,36,4.97,3,Home,Yes,3,Rejected,Low
+834,58,Male,Divorced,Master,Retired,31,78819,378,0.32,19429,12,10.33,0,Home,No,2,Rejected,Low
+835,54,Female,Widowed,Master,Unemployed,27,63856,481,0.36,23758,36,11.06,4,Business,No,3,Approved,High
+836,38,Male,Widowed,PhD,Self-employed,20,53576,798,0.17,7272,60,4.07,1,Other,No,5,Rejected,Medium
+837,50,Male,Married,PhD,Self-employed,12,61938,370,0.31,22350,36,12.33,4,Home,No,2,Approved,Medium
+838,35,Male,Divorced,Bachelor,Unemployed,26,69028,547,0.27,27538,72,2.73,4,Education,Yes,1,Approved,Medium
+839,47,Female,Widowed,PhD,Retired,35,79807,445,0.19,8400,72,8.53,3,Car,No,3,Approved,Low
+840,54,Female,Married,PhD,Employed,6,69877,595,0.1,20371,48,6.64,1,Personal,No,4,Rejected,Medium
+841,58,Male,Married,PhD,Unemployed,21,117783,769,0.33,42310,24,11.75,1,Education,Yes,2,Rejected,Low
+842,53,Female,Married,PhD,Unemployed,9,63461,805,0.44,41291,60,6.41,4,Education,Yes,1,Rejected,Low
+843,44,Male,Widowed,High School,Retired,38,113474,492,0.21,23147,60,12.84,1,Education,Yes,0,Rejected,Low
+844,35,Female,Divorced,PhD,Self-employed,14,60469,367,0.17,8291,36,9.94,1,Education,Yes,2,Rejected,Low
+845,50,Male,Single,High School,Retired,14,103136,793,0.54,40256,48,12.42,3,Personal,No,2,Approved,Medium
+846,62,Male,Married,High School,Unemployed,3,40435,351,0.24,15892,36,14.87,2,Business,No,5,Rejected,High
+847,37,Female,Widowed,PhD,Unemployed,31,104117,662,0.21,39326,36,10.99,0,Other,Yes,4,Approved,Low
+848,25,Male,Widowed,Master,Self-employed,22,34191,773,0.53,42458,60,14.81,2,Home,Yes,5,Approved,Medium
+849,49,Female,Single,High School,Self-employed,5,104726,820,0.51,43889,36,2.86,1,Education,Yes,2,Approved,Low
+850,24,Female,Single,Master,Self-employed,23,143658,730,0.32,49966,24,6.73,4,Home,Yes,2,Rejected,Medium
+851,30,Male,Widowed,Master,Retired,19,135660,597,0.34,42207,36,3.85,0,Home,No,4,Rejected,Low
+852,37,Male,Divorced,PhD,Self-employed,36,47386,734,0.21,45288,24,5.78,0,Education,Yes,4,Rejected,Low
+853,30,Female,Single,Bachelor,Unemployed,19,51721,497,0.14,30995,60,12.99,4,Business,No,3,Rejected,Low
+854,37,Male,Widowed,PhD,Unemployed,11,74786,427,0.39,10409,48,2.9,0,Home,Yes,1,Rejected,Medium
+855,40,Male,Single,Bachelor,Employed,32,33704,831,0.15,47438,72,9,4,Car,No,1,Rejected,Low
+856,44,Male,Divorced,Bachelor,Retired,27,76635,710,0.32,49874,24,9.59,0,Home,No,3,Rejected,High
+857,25,Male,Married,PhD,Employed,7,22123,364,0.57,49702,48,9.51,2,Other,No,1,Rejected,Low
+858,54,Male,Single,PhD,Unemployed,0,110710,540,0.58,34823,48,8.44,0,Education,No,2,Approved,High
+859,26,Female,Divorced,Bachelor,Employed,36,129837,668,0.22,12869,24,12.38,3,Personal,Yes,3,Rejected,Medium
+860,22,Female,Widowed,PhD,Unemployed,21,134912,835,0.41,40724,60,4.17,4,Home,No,3,Approved,Low
+861,33,Male,Single,Bachelor,Employed,5,82993,683,0.34,27401,12,6.38,0,Business,Yes,1,Approved,Low
+862,63,Male,Single,Master,Self-employed,20,132752,730,0.54,30958,48,10.2,4,Car,No,0,Approved,Medium
+863,63,Male,Widowed,PhD,Employed,31,100122,382,0.24,15766,48,11.14,3,Car,No,1,Approved,Medium
+864,68,Female,Married,Master,Self-employed,34,117512,585,0.1,24768,60,7.55,0,Personal,Yes,5,Rejected,Medium
+865,31,Male,Widowed,High School,Self-employed,14,45416,833,0.18,35794,60,13.44,0,Other,Yes,0,Rejected,Low
+866,67,Female,Single,Master,Retired,4,21814,758,0.27,31145,36,7.69,3,Personal,No,3,Approved,Low
+867,43,Female,Widowed,Master,Self-employed,5,98537,511,0.26,15086,60,7.53,3,Other,No,0,Approved,High
+868,36,Female,Divorced,Bachelor,Self-employed,24,70258,425,0.5,48203,48,2.95,3,Home,Yes,2,Approved,Low
+869,51,Male,Widowed,Master,Employed,39,36508,712,0.44,31442,24,9.39,4,Education,No,4,Rejected,Low
+870,31,Female,Single,PhD,Unemployed,28,105166,798,0.25,21412,12,11.36,3,Business,Yes,0,Approved,Low
+871,36,Male,Widowed,Bachelor,Retired,6,98916,724,0.33,30596,36,3.93,4,Car,Yes,5,Approved,Medium
+872,28,Female,Married,High School,Self-employed,39,133710,842,0.15,15255,24,6.32,2,Personal,Yes,4,Rejected,Medium
+873,24,Male,Widowed,PhD,Retired,12,55699,457,0.55,47406,12,12.27,0,Business,No,2,Approved,Low
+874,60,Female,Married,High School,Employed,37,66335,411,0.57,45524,12,7.07,0,Other,No,5,Rejected,Low
+875,24,Male,Divorced,Master,Self-employed,17,66806,701,0.59,28332,12,5.52,1,Education,Yes,4,Rejected,Low
+876,45,Female,Married,PhD,Employed,1,97853,421,0.53,49624,72,10.9,2,Car,Yes,2,Approved,Low
+877,23,Male,Widowed,PhD,Retired,7,83768,572,0.19,20764,24,4.96,3,Car,Yes,4,Approved,Low
+878,52,Male,Single,High School,Employed,10,55739,593,0.12,32563,36,13.7,3,Other,Yes,4,Approved,High
+879,23,Male,Married,PhD,Retired,32,54785,697,0.39,27139,36,3.82,2,Education,No,1,Rejected,Low
+880,47,Male,Divorced,PhD,Employed,37,51980,770,0.56,41370,12,11.33,3,Car,Yes,5,Rejected,Low
+881,49,Female,Married,PhD,Retired,26,109335,506,0.19,10062,24,8.74,1,Education,No,5,Rejected,Medium
+882,52,Female,Married,Master,Unemployed,19,120719,409,0.1,49645,72,13.37,4,Car,Yes,0,Approved,Low
+883,39,Male,Married,High School,Employed,11,114702,739,0.5,12244,12,4.08,0,Home,No,5,Approved,Low
+884,41,Female,Divorced,PhD,Employed,30,105016,577,0.14,11372,60,10.97,2,Other,No,5,Approved,Low
+885,25,Male,Widowed,Bachelor,Unemployed,26,21609,781,0.31,44873,36,9.65,0,Education,No,4,Approved,Low
+886,38,Male,Married,Bachelor,Unemployed,31,86253,413,0.44,24965,48,8.5,4,Business,No,3,Approved,High
+887,48,Female,Married,Bachelor,Employed,9,105481,776,0.22,49997,12,8.64,2,Home,No,1,Approved,Low
+888,62,Male,Single,Bachelor,Unemployed,2,111128,620,0.14,21956,60,11.52,4,Business,Yes,0,Rejected,Low
+889,42,Male,Divorced,Master,Self-employed,26,48141,478,0.49,45473,36,14.22,3,Other,Yes,1,Rejected,Medium
+890,41,Female,Married,PhD,Retired,34,50009,518,0.42,18894,72,3.64,3,Car,No,0,Rejected,High
+891,26,Male,Divorced,High School,Retired,30,147581,827,0.59,38382,24,2.74,3,Business,Yes,2,Approved,Low
+892,21,Male,Married,PhD,Retired,14,130966,791,0.27,9050,36,12.57,4,Home,Yes,4,Rejected,Low
+893,25,Male,Widowed,Master,Self-employed,15,26782,360,0.13,21709,24,3.85,4,Education,Yes,5,Rejected,High
+894,61,Male,Widowed,Bachelor,Unemployed,12,112072,353,0.47,20722,24,14.83,4,Personal,Yes,5,Rejected,Low
+895,32,Female,Married,Master,Unemployed,34,119352,837,0.36,20210,72,10.24,0,Business,Yes,3,Approved,Medium
+896,46,Female,Widowed,PhD,Employed,10,45933,364,0.21,41545,72,10.64,4,Personal,Yes,1,Approved,Medium
+897,66,Female,Married,High School,Unemployed,20,97154,470,0.49,43674,12,4.99,3,Other,Yes,1,Rejected,Medium
+898,54,Male,Widowed,Master,Employed,10,28307,572,0.2,39489,12,5.5,1,Business,No,1,Approved,Low
+899,69,Male,Single,High School,Self-employed,29,112207,834,0.23,22733,36,10.74,4,Business,Yes,5,Approved,Low
+900,34,Female,Single,Master,Retired,34,126209,690,0.15,25080,72,13.87,1,Education,Yes,1,Approved,Medium
+901,46,Male,Single,High School,Retired,21,128297,626,0.3,41664,60,14.78,3,Car,Yes,4,Approved,Low
+902,65,Male,Divorced,High School,Retired,37,95874,407,0.31,44709,36,4.98,4,Home,No,0,Rejected,Low
+903,47,Male,Divorced,Bachelor,Unemployed,30,58346,461,0.36,43014,48,4.18,0,Home,No,5,Approved,Low
+904,29,Male,Single,High School,Employed,13,132138,751,0.45,46152,24,3.21,0,Home,Yes,4,Rejected,Low
+905,46,Female,Divorced,Bachelor,Employed,23,70772,505,0.55,32250,24,13.35,1,Other,No,2,Rejected,High
+906,67,Female,Widowed,PhD,Self-employed,31,92084,315,0.17,25229,12,6.18,0,Car,No,4,Approved,Low
+907,42,Female,Married,PhD,Unemployed,35,60149,626,0.13,21475,60,2.52,0,Personal,Yes,4,Approved,High
+908,67,Male,Married,Bachelor,Self-employed,31,106700,301,0.11,48876,72,5.3,0,Home,No,2,Approved,Low
+909,50,Female,Married,Bachelor,Employed,14,47526,309,0.17,34011,72,6.76,3,Personal,Yes,4,Rejected,Low
+910,63,Female,Single,Master,Employed,34,116758,733,0.43,13128,12,14.89,0,Car,No,0,Rejected,Low
+911,68,Male,Divorced,Master,Retired,2,105712,424,0.46,37450,48,9.04,2,Other,Yes,5,Rejected,Medium
+912,37,Male,Widowed,Master,Unemployed,15,148447,380,0.49,23897,36,5.06,4,Car,No,3,Rejected,Medium
+913,46,Female,Widowed,PhD,Employed,4,88477,784,0.22,13168,36,6.69,0,Education,Yes,2,Rejected,Low
+914,56,Female,Single,Master,Retired,20,25695,449,0.25,11861,60,6.63,0,Home,Yes,5,Rejected,High
+915,21,Female,Widowed,High School,Unemployed,9,59169,639,0.34,46758,12,2.75,0,Other,No,1,Rejected,Low
+916,28,Female,Widowed,High School,Self-employed,18,67947,428,0.13,18750,12,4.19,2,Education,Yes,0,Approved,Medium
+917,69,Male,Widowed,Master,Unemployed,24,67224,737,0.41,21988,48,11.19,0,Home,Yes,3,Rejected,High
+918,55,Female,Widowed,High School,Unemployed,3,65865,800,0.59,7979,36,4,0,Car,No,0,Rejected,Medium
+919,35,Female,Divorced,PhD,Employed,28,45553,357,0.28,28524,12,5.38,4,Car,Yes,0,Rejected,High
+920,67,Male,Widowed,High School,Employed,18,124501,497,0.48,12065,72,6.88,2,Business,Yes,1,Rejected,Low
+921,42,Female,Married,PhD,Unemployed,1,80410,510,0.35,42684,60,11.97,2,Business,No,3,Approved,Low
+922,34,Male,Single,Bachelor,Employed,9,123754,344,0.16,28184,36,9.78,0,Car,Yes,0,Rejected,Low
+923,46,Male,Divorced,Bachelor,Employed,24,110895,396,0.39,38365,48,11.11,2,Car,No,1,Rejected,Low
+924,48,Male,Widowed,Bachelor,Employed,19,44816,578,0.25,28704,60,9.59,1,Personal,Yes,2,Approved,Medium
+925,43,Female,Divorced,Bachelor,Retired,18,75026,834,0.12,10622,24,11.04,2,Personal,No,1,Approved,Low
+926,34,Female,Widowed,High School,Retired,22,70705,709,0.42,23261,72,2.54,2,Education,No,4,Rejected,Medium
+927,44,Male,Married,Master,Unemployed,23,81922,760,0.53,49932,48,14.14,2,Business,Yes,5,Rejected,Low
+928,22,Female,Single,High School,Employed,10,135700,690,0.27,33419,60,3.89,3,Business,No,1,Rejected,Low
+929,65,Female,Widowed,PhD,Retired,33,93914,343,0.3,39467,12,7.58,3,Car,Yes,1,Rejected,Medium
+930,46,Male,Widowed,High School,Unemployed,27,21881,326,0.55,30605,24,12.14,3,Car,Yes,1,Rejected,Low
+931,34,Male,Widowed,High School,Employed,4,59567,396,0.51,34171,48,7.94,2,Education,No,0,Rejected,Medium
+932,27,Female,Widowed,PhD,Self-employed,4,67365,847,0.46,27164,12,14.34,1,Other,Yes,3,Approved,Low
+933,23,Male,Single,Bachelor,Employed,20,147928,518,0.22,18796,72,8.34,2,Other,Yes,1,Approved,Medium
+934,67,Female,Single,Bachelor,Employed,11,99211,484,0.56,41854,24,13.44,0,Other,No,1,Rejected,Low
+935,43,Female,Married,Bachelor,Retired,3,90122,368,0.18,36320,36,12.64,1,Business,Yes,4,Rejected,Low
+936,66,Female,Single,Master,Unemployed,19,45006,429,0.41,5665,12,14.76,3,Personal,Yes,4,Rejected,Medium
+937,63,Female,Widowed,PhD,Unemployed,37,61198,633,0.11,37694,60,14.08,4,Other,No,2,Approved,Medium
+938,67,Male,Married,PhD,Retired,24,42831,453,0.42,29230,48,13.73,1,Home,Yes,2,Rejected,Low
+939,65,Male,Married,High School,Employed,13,120649,846,0.24,27995,24,11.65,3,Education,Yes,4,Approved,Low
+940,38,Male,Married,Master,Self-employed,10,36459,378,0.32,31784,12,7.09,1,Other,No,3,Approved,Low
+941,58,Male,Widowed,Bachelor,Employed,31,52443,712,0.27,19605,36,3.83,1,Home,Yes,2,Rejected,Low
+942,55,Female,Divorced,Master,Employed,10,62316,845,0.19,22463,48,11.11,2,Other,Yes,5,Approved,Medium
+943,35,Female,Widowed,PhD,Self-employed,17,116131,468,0.41,13419,48,14.73,0,Personal,No,5,Rejected,Medium
+944,45,Male,Single,PhD,Retired,26,84486,814,0.54,38837,12,11.58,4,Personal,Yes,3,Approved,Low
+945,57,Female,Single,High School,Unemployed,17,25877,613,0.58,10263,36,14.11,3,Other,Yes,4,Rejected,Low
+946,48,Female,Widowed,High School,Retired,22,59553,331,0.2,45719,72,12.55,1,Home,No,2,Rejected,Medium
+947,30,Female,Widowed,PhD,Retired,10,134137,586,0.46,39131,72,4.54,4,Education,No,1,Approved,Low
+948,59,Male,Married,Bachelor,Employed,20,24922,342,0.43,42276,24,5.62,1,Home,Yes,4,Approved,Medium
+949,37,Male,Widowed,Bachelor,Unemployed,4,142778,300,0.27,39523,12,6.77,0,Education,Yes,2,Approved,Low
+950,59,Male,Married,Master,Unemployed,22,137018,569,0.11,5519,24,4.6,4,Other,No,3,Rejected,Medium
+951,42,Female,Single,PhD,Retired,24,24686,479,0.44,36106,72,9.77,3,Education,Yes,5,Approved,Low
+952,46,Male,Married,PhD,Self-employed,9,52766,817,0.57,49504,48,14.69,1,Car,Yes,3,Approved,Medium
+953,64,Male,Widowed,Bachelor,Retired,21,99943,402,0.42,15514,24,12.02,0,Business,Yes,2,Rejected,Low
+954,45,Male,Single,Bachelor,Self-employed,18,52006,309,0.32,12233,36,7.79,4,Business,No,3,Rejected,Low
+955,37,Male,Divorced,PhD,Unemployed,0,51422,389,0.36,6102,60,2.56,1,Personal,Yes,2,Approved,Medium
+956,33,Male,Married,High School,Retired,6,136590,525,0.2,5597,72,6.42,1,Car,Yes,2,Approved,Low
+957,40,Male,Single,PhD,Employed,3,148886,425,0.48,24657,72,9.08,3,Business,No,3,Approved,Low
+958,45,Female,Married,PhD,Retired,0,32205,508,0.47,43549,36,6.55,0,Other,No,0,Rejected,Low
+959,24,Female,Single,Bachelor,Unemployed,14,106590,396,0.17,48565,24,3.89,2,Education,No,1,Rejected,Low
+960,30,Male,Single,Bachelor,Employed,39,43527,373,0.54,11256,12,8.03,1,Education,Yes,4,Approved,High
+961,23,Male,Married,High School,Employed,11,131483,490,0.23,48148,48,5.67,4,Home,Yes,5,Rejected,Medium
+962,61,Female,Divorced,High School,Self-employed,21,38443,355,0.59,34401,60,13.87,3,Home,No,1,Approved,Low
+963,65,Female,Single,Master,Employed,21,36524,331,0.29,46548,12,3.77,3,Education,Yes,4,Approved,Medium
+964,38,Male,Single,PhD,Employed,16,136477,826,0.19,11554,12,3.11,1,Other,Yes,4,Rejected,Low
+965,67,Male,Single,Bachelor,Retired,28,48202,583,0.28,17664,36,2.57,1,Education,Yes,5,Approved,High
+966,56,Male,Divorced,High School,Unemployed,13,85552,793,0.32,47367,24,6.6,1,Home,Yes,1,Approved,Low
+967,67,Male,Divorced,Master,Self-employed,19,66142,486,0.13,29386,72,10.75,2,Business,No,5,Rejected,Low
+968,42,Female,Widowed,Master,Retired,32,81692,797,0.39,9846,72,11.63,1,Personal,No,2,Approved,Low
+969,54,Male,Married,Bachelor,Employed,14,102384,741,0.4,31205,36,8.17,0,Home,Yes,5,Approved,Low
+970,67,Male,Divorced,Bachelor,Employed,11,40855,429,0.47,30570,24,11.05,4,Other,No,3,Rejected,Low
+971,28,Male,Married,Master,Self-employed,39,103747,591,0.11,35255,36,7,1,Business,Yes,0,Approved,Low
+972,60,Male,Widowed,High School,Unemployed,19,80372,413,0.37,26182,72,10.85,2,Business,Yes,0,Approved,Medium
+973,69,Female,Married,Master,Self-employed,29,45095,498,0.13,44373,12,3.01,4,Business,No,0,Rejected,Low
+974,64,Female,Divorced,PhD,Retired,37,58724,312,0.45,48019,48,7.38,3,Car,No,1,Rejected,High
+975,39,Female,Married,PhD,Self-employed,2,69241,570,0.13,21043,24,12.39,1,Car,Yes,1,Rejected,Low
+976,62,Male,Divorced,Bachelor,Employed,27,123119,514,0.56,40754,60,12.54,4,Business,Yes,2,Approved,Medium
+977,61,Male,Married,High School,Retired,25,72003,743,0.45,5400,60,11.45,3,Other,Yes,0,Rejected,High
+978,57,Female,Divorced,High School,Employed,29,88379,811,0.35,24239,12,5.05,2,Education,Yes,2,Approved,Medium
+979,26,Male,Divorced,PhD,Unemployed,12,114837,746,0.32,15416,36,5.59,0,Other,No,0,Rejected,Medium
+980,46,Male,Married,Master,Employed,12,111996,373,0.17,8412,36,14.95,1,Car,No,1,Approved,Medium
+981,54,Female,Widowed,Bachelor,Employed,1,117454,836,0.25,21440,72,3.79,0,Home,Yes,3,Approved,Low
+982,65,Female,Single,Master,Self-employed,36,114283,400,0.53,29406,12,4.76,2,Car,Yes,3,Rejected,Medium
+983,26,Female,Widowed,Master,Employed,37,35972,475,0.55,6875,72,4.13,4,Education,No,3,Approved,Low
+984,57,Female,Married,Master,Retired,1,143805,726,0.1,42066,72,6.6,4,Personal,Yes,5,Approved,Low
+985,53,Male,Widowed,High School,Retired,35,113846,416,0.4,41536,60,5.13,2,Car,No,3,Rejected,Low
+986,42,Male,Divorced,PhD,Unemployed,25,42927,465,0.46,10752,72,8.72,2,Other,Yes,4,Approved,Medium
+987,41,Female,Single,High School,Retired,10,140589,340,0.41,26217,72,8.45,1,Other,No,0,Approved,Low
+988,26,Male,Married,PhD,Self-employed,7,135657,728,0.14,17489,60,13.77,3,Business,Yes,3,Approved,Low
+989,26,Female,Married,Bachelor,Unemployed,39,86630,643,0.21,6353,36,2.93,0,Business,Yes,4,Rejected,Low
+990,68,Female,Married,Bachelor,Retired,21,124428,723,0.23,31986,24,6.5,0,Business,Yes,4,Rejected,High
+991,24,Male,Single,Master,Self-employed,19,142035,665,0.52,26371,48,9.96,4,Personal,No,4,Rejected,Low
+992,50,Female,Divorced,PhD,Retired,7,72347,419,0.33,44365,72,10.06,4,Education,No,2,Rejected,Low
+993,31,Male,Married,PhD,Retired,28,119708,528,0.34,19691,24,8.5,1,Home,Yes,2,Rejected,Low
+994,50,Male,Widowed,PhD,Employed,39,146244,429,0.57,9311,60,12.7,2,Other,Yes,4,Rejected,High
+995,51,Male,Married,Master,Retired,25,108860,651,0.42,15794,24,3.28,0,Other,Yes,5,Rejected,High
+996,44,Male,Married,Master,Retired,29,106210,617,0.55,7934,48,12.69,1,Education,Yes,3,Rejected,Medium
+997,29,Female,Married,Bachelor,Self-employed,16,89518,636,0.33,21406,24,8.68,4,Personal,No,0,Approved,Medium
+998,23,Male,Married,High School,Self-employed,19,65283,572,0.17,15394,24,4.17,4,Business,No,5,Approved,Low
+999,51,Female,Divorced,PhD,Employed,15,101326,416,0.56,31872,24,13.57,0,Education,No,1,Approved,High
+1000,60,Female,Widowed,PhD,Retired,6,32205,667,0.33,46708,24,10.62,4,Home,Yes,2,Approved,Low
