@@ -1,0 +1,57 @@
+# Loan Default Risk Analysis (SQL)
+
+## Project Overview
+This project analyzes a synthetic bank loan dataset to assess credit risk and identify key factors influencing loan defaults. Using SQL, we performed data cleaning, exploratory data analysis (EDA), and implemented stored procedures to automate risk assessment tasks.
+
+## Dataset
+The dataset contains customer loan records, including features such as:
+- **Loan_ID**: Unique loan identifier
+- **Customer_ID**: Unique customer identifier
+- **Loan_Amount**: Loan amount requested
+- **Loan_Term**: Loan duration in months
+- **Interest_Rate**: Interest rate applied to the loan
+- **Income**: Customer’s annual income
+- **Credit_Score**: Credit rating of the customer
+- **Employment_Status**: Job status (Employed, Unemployed, Self-Employed)
+- **Loan_Status**: Binary (1 = Default, 0 = No Default)
+
+## Data Loading
+The dataset is stored in `datasets/raw_data.csv` and was imported into MySQL using `database/data_import.sql`, ensuring appropriate data types and constraints were applied.
+
+## Data Cleaning
+Key cleaning steps performed in `queries/data_cleaning.sql` include:
+- Handling missing values by imputing or removing invalid entries.
+- Standardizing categorical values for consistency.
+- Removing duplicate records.
+- Ensuring numeric data integrity (e.g., positive loan amounts, valid credit scores).
+
+## Exploratory Data Analysis (EDA)
+Several SQL queries were executed to understand the dataset, including:
+- **Loan Amount Distribution**: Average loan amounts across different income brackets.
+- **Default Rate Analysis**: Default rate by employment status and credit score category.
+- **Loan Term Impact**: Relationship between loan term and default probability.
+- **Interest Rate Comparison**: Distribution of interest rates for defaulters vs. non-defaulters.
+
+## Stored Procedures
+To enhance automation, `queries/stored_procedures.sql` contains:
+- **Calculate_Default_Risk()**: Computes the default probability for a given customer.
+- **Top_Risky_Customers()**: Identifies customers with the highest likelihood of default.
+- **Loan_Approval_Suggestion()**: Suggests loan approval or rejection based on key financial indicators.
+
+## Results
+The results of our analysis, including cleaned data and aggregated insights, are stored in `results/cleaned_data.csv`. These findings can be further visualized using BI tools for deeper insights.
+
+## Conclusion
+This SQL-driven analysis provides insights into customer risk profiles and loan performance, aiding financial institutions in making data-driven credit decisions. The structured queries and stored procedures ensure efficiency and repeatability in risk evaluation.
+
+## How to View the Results
+1. **Run the SQL Scripts**:
+   - Import the dataset using `data_import.sql`.
+   - Clean the data using `data_cleaning.sql`.
+   - Execute EDA queries for insights.
+   - Run stored procedures for automated risk assessment.
+2. **View the Cleaned Data**: The processed dataset is available in `results/cleaned_data.csv`.
+3. **Visualize Insights**: Use SQL queries or BI tools to analyze trends and patterns.
+
+This structured approach ensures clarity, reproducibility, and efficiency in loan risk assessment using SQL.
+
